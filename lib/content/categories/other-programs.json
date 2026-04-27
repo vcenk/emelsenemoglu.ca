@@ -1,0 +1,26 @@
+{
+  "slug": "other-programs",
+  "label": "Other Programs",
+  "title": "Specialty Mortgage Programs",
+  "metaTitle": "Specialty Mortgage Programs — Vancouver Broker",
+  "metaDescription": "Cash-back, bad-credit, no-commitment, reverse mortgages and complex mortgage structures across Greater Vancouver and Canada. Niche solutions when standard programs don't fit.",
+  "intro": "When a standard A-lender file doesn't fit, there are still solutions — cash-back products, bruised-credit programs, fully-open mortgages, reverse mortgages for 55+ owners, and tailored complex structures.",
+  "body": "<p>Most lender shopping happens in the prime A-lender world. But about a quarter of files I work on need something else: a credit rebuild, a fully-open structure for a short hold period, a reverse mortgage to convert equity into retirement income, or a multi-property structure with cross-collateral. The ten pages in this section cover the most common 'what if my situation isn't standard' questions.</p>",
+  "highlights": [
+    { "title": "Bruised-credit programs", "description": "B-lenders and credit unions accept Equifax scores in the 580–640 range that A-lenders won't touch." },
+    { "title": "Reverse mortgage to age 95+", "description": "Up to 55% of home value tax-free, no monthly payments, no income or credit qualification required." },
+    { "title": "Complex multi-property", "description": "Cross-collateralized, blanket and corporate-owned mortgage structures for sophisticated borrowers." }
+  ],
+  "services": [
+    "cash-back-mortgages",
+    "bad-credit-mortgage",
+    "no-commitment-mortgage",
+    "pre-sales",
+    "special-programs",
+    "leasing",
+    "chip-reverse-mortgage",
+    "reverse-mortgage",
+    "prepayment-penalties",
+    "complex-mortgage-solutions"
+  ]
+}

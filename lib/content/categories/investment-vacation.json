@@ -1,0 +1,15 @@
+{
+  "slug": "investment-vacation",
+  "label": "Investment & Vacation",
+  "title": "Investment Property & Vacation Home Mortgages in BC",
+  "metaTitle": "Investment & Vacation Property Mortgages — BC Broker",
+  "metaDescription": "Mortgages for investment properties, vacation homes, second properties and second mortgages in Greater Vancouver and across BC. Up to 80% LTV on rentals.",
+  "intro": "Building a rental portfolio or buying a Whistler getaway has its own mortgage rulebook — and most of it doesn't get explained at your bank's main branch.",
+  "body": "<p>Rental property financing in Canada caps at 80% loan-to-value federally — meaning at least 20% down on any rental purchase. Vacation and second-home financing for owner-use can go higher (up to 95% LTV in some cases) but only at properties that satisfy specific 'Type A' criteria: year-round road access, year-round residential use, full kitchen and bath, etc.</p><p>The four pages below cover the most common scenarios — buying your first rental, buying a Whistler or Okanagan getaway, taking out a second mortgage to fund the next purchase, and buying a second property as a family member's home.</p>",
+  "highlights": [
+    { "title": "Rental rental income offset", "description": "Many lenders count 50–100% of rental income against the new mortgage payment, dramatically improving qualification." },
+    { "title": "Vacation home Type A vs Type B", "description": "Type A vacation properties qualify for higher LTV; Type B (off-grid, season-only) require 25%+ down conventionally." },
+    { "title": "Second mortgages", "description": "Equity take-out without breaking the first — useful when the first mortgage has a low rate or large IRD penalty." }
+  ],
+  "services": ["investment-properties", "vacation-secondary-homes", "second-and-third-mortgages", "second-property"]
+}

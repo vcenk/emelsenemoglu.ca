@@ -1,0 +1,52 @@
+{
+  "slug": "fixed-vs-variable-2026",
+  "title": "Fixed vs Variable Mortgage in Canada: 2026 Decision Guide",
+  "metaTitle": "Fixed vs Variable Mortgage Canada 2026 — Which Wins?",
+  "metaDescription": "Should you choose fixed or variable in 2026? Honest breakdown of how Canadian mortgage rates work, penalty implications, and the math behind each choice.",
+  "excerpt": "The 'fixed vs variable' question has more layers than most articles let on. Here's the honest breakdown — including the penalty math nobody talks about.",
+  "category": "Strategy",
+  "tags": ["fixed vs variable", "Canadian mortgage rates", "BoC rate", "prime rate Canada"],
+  "publishedAt": "2026-04-08",
+  "readingMinutes": 8,
+  "body": [
+    {
+      "heading": "What 'fixed' and 'variable' actually mean in Canada",
+      "paragraphs": [
+        "A fixed-rate mortgage locks your interest rate for the term — typically 1, 2, 3, 4, 5, 7 or 10 years. Your payment doesn't change. Your prepayment penalty if you break early is the greater of three months' interest or the Interest Rate Differential (IRD) — and IRD can be enormous.",
+        "A variable-rate mortgage is tied to your lender's prime rate, which moves with the Bank of Canada policy rate. There are two flavors: 'variable-rate fixed-payment' (your payment stays the same; the principal/interest split shifts when rates change) and 'true variable' (your payment moves with rate changes). Either way, the prepayment penalty is almost always just three months' interest — much smaller than IRD."
+      ]
+    },
+    {
+      "heading": "The honest math",
+      "paragraphs": [
+        "Historically, variable has beaten fixed about 70% of the time over five-year terms. But 'historically' is a 30-year window, much of which had structurally falling rates. The 2022–2024 cycle, with rates rising 475 basis points, was a brutal time to be variable.",
+        "In 2026, the Bank of Canada has been on a measured cutting cycle. Variable rates are typically 0.20–0.40% below 5-year fixed rates as of this writing. If the BoC continues cutting, variable wins. If they pause or reverse, fixed wins. Nobody knows which it will be."
+      ]
+    },
+    {
+      "heading": "The factor that actually decides for most clients: penalty risk",
+      "paragraphs": [
+        "If there's any chance you'll break your mortgage early — divorce, relocation, refinance, sale, second-property purchase — variable is almost always the right call regardless of the rate gap. A typical big-bank IRD penalty on a $700K Vancouver mortgage with 3 years left can run $25,000–$40,000. The same scenario on a variable mortgage costs $8,000–$10,000.",
+        "If you're 100% certain you'll hold for the full term, the rate gap is the main consideration. A 30 bps fixed-rate premium over 5 years on a $700K mortgage is about $10,000 of extra interest — protection against future rate increases."
+      ]
+    },
+    {
+      "heading": "What I usually recommend",
+      "paragraphs": [
+        "For first-time buyers stretching their budget: variable, with the lowest possible payment to preserve cash flow during settling-in years. For repeat buyers planning to hold long-term and risk-averse: fixed at the right monoline lender (with friendly IRD calculation). For self-employed or anyone whose life might change in the next 5 years: variable. For anyone with a low risk tolerance who'll lose sleep watching rate news: fixed, full stop. The peace-of-mind premium is real."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I switch from variable to fixed mid-term?",
+      "answer": "Yes — most variable-rate mortgages allow conversion to a fixed term at any time, at the lender's prevailing fixed rate, with no penalty. Useful if rates start rising and you want to lock."
+    },
+    {
+      "question": "What about a hybrid mortgage — half fixed, half variable?",
+      "answer": "Available at some lenders. Splits the risk both ways. Adds complexity at renewal because the two halves usually mature at different dates. Niche product; rarely the right answer."
+    }
+  ],
+  "relatedPosts": ["stress-test-explained-2026", "renewal-playbook-canada"],
+  "relatedServices": ["mortgage-renewals", "first-time-home-buyers", "prepayment-penalties"]
+}

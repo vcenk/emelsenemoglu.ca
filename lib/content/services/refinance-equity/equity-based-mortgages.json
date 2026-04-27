@@ -1,0 +1,47 @@
+{
+  "slug": "equity-based-mortgages",
+  "category": "refinance-equity",
+  "categoryLabel": "Refinance & Equity Access",
+  "title": "Equity-Based Mortgages — When Equity Outweighs Income",
+  "shortTitle": "Equity-Based Mortgages",
+  "metaTitle": "Equity-Based Mortgage in BC — Stated-Income Options",
+  "metaDescription": "Equity-based mortgages for borrowers with strong equity but limited verifiable income — retirees, self-employed and high-net-worth clients in Greater Vancouver.",
+  "intro": "When traditional income documentation doesn't tell your story, equity does. Equity-based mortgages weigh the strength of your property and down payment more heavily than your line-by-line income.",
+  "body": [
+    {
+      "heading": "Who equity-based mortgages help",
+      "paragraphs": [
+        "Three groups benefit most: retirees with significant home equity but limited employment income, self-employed borrowers whose tax-optimized income looks small on paper, and high-net-worth borrowers whose wealth is in investments and corporate accounts rather than personal T4s.",
+        "Equity-based products typically require 20–35% equity (or 20–35% down on a purchase), accept stated-income or asset-based qualification, and price at 0.5–1.5% above standard A-lender rates. They're a sensible bridge for clients who don't fit traditional underwriting today but expect to graduate back to A-lender rates within 2–5 years."
+      ]
+    },
+    {
+      "heading": "B-lenders and credit unions",
+      "paragraphs": [
+        "Most equity-based mortgages come from B-lenders (Home Trust, Equitable Bank, MCAP B-side) and credit unions (Vancity, Coast Capital, BlueShore, Prospera in BC). Credit unions are particularly flexible because they're provincially regulated and not subject to federal stress-test rules — they can qualify on the contract rate alone for some files."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are self-employed with tax-optimized income",
+    "Are retired with significant home equity but limited fixed income",
+    "Have wealth held in corporate or investment accounts",
+    "Have temporary income disruption you can't document conventionally"
+  ],
+  "faqs": [
+    {
+      "question": "Are equity-based mortgages more expensive?",
+      "answer": "Yes — typically 0.5–1.5% above prime A-lender rates. Use them as a bridge to a better situation, not as a permanent home for your mortgage."
+    },
+    {
+      "question": "Can I move back to an A-lender later?",
+      "answer": "Often yes. After 1–2 years of clean payments and improved or documented income, most clients can transfer to A-lender pricing at renewal."
+    },
+    {
+      "question": "What's the maximum loan-to-value?",
+      "answer": "Generally 65–80% LTV depending on the lender and your file. Stronger files with provable down payment can push higher; thinner files cap lower."
+    }
+  ],
+  "related": ["self-employed", "refinancing-your-home", "bad-credit-mortgage"],
+  "keywords": ["equity based mortgage BC", "stated income mortgage Canada", "alt-A mortgage Vancouver"]
+}

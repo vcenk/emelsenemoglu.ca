@@ -1,0 +1,41 @@
+{
+  "slug": "early-renewals",
+  "category": "renewals-transfers",
+  "categoryLabel": "Renewals & Transfers",
+  "title": "Early Mortgage Renewal — When Breaking Early Pays Off",
+  "shortTitle": "Early Renewals",
+  "metaTitle": "Early Mortgage Renewal in Canada — Worth the Penalty?",
+  "metaDescription": "When does breaking your mortgage early to renew at a lower rate actually save money? Penalty calculation, break-even analysis, and lender 'blend and extend' options.",
+  "intro": "An early renewal means breaking your existing term to lock a new one — usually because rates have dropped meaningfully since you signed. Sometimes it's brilliant, sometimes the penalty wipes out the savings. The math is the only thing that decides.",
+  "body": [
+    {
+      "heading": "How the penalty works",
+      "paragraphs": [
+        "On a fixed-rate mortgage, breaking early triggers the greater of three months' interest or the Interest Rate Differential (IRD). On a variable-rate mortgage, it's almost always three months' interest only — much cheaper. That's why variable-rate holders have far more flexibility to renew early when rates drop.",
+        "Big banks compute IRD using their posted rate (the headline rate they advertise) which inflates the penalty dramatically. A typical big-six early-break penalty on a $700,000 Greater Vancouver mortgage can run $20,000–$40,000. Monoline lenders use the discounted rate they actually gave you, producing penalties usually 60–80% lower."
+      ]
+    },
+    {
+      "heading": "Three ways to renew early without breaking",
+      "paragraphs": [
+        "Option A: 'Blend and extend.' Most lenders will blend your existing rate with current rates and extend your term. No penalty, but the new rate is a weighted average — not the headline current rate. Useful when rates have dropped slightly. Option B: Wait until 120 days before maturity, when most lenders will let you lock the new rate without penalty. Option C: Refinance to a different lender at maturity — same as a regular renewal, with the option to take cash out at the same time."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I find out my exact penalty?",
+      "answer": "Call your lender and request a written 'payout statement' or penalty quote. Verbal quotes can be off by thousands. The quote is good for 30 days typically."
+    },
+    {
+      "question": "When does breaking early make sense?",
+      "answer": "When your savings over the new term clearly exceed the penalty plus legal/appraisal costs, and you'll stay in the mortgage long enough to capture them. The Refinance Calculator on this site does the math."
+    },
+    {
+      "question": "Is blending always better than breaking?",
+      "answer": "Only if the blended rate is competitive. Blends are quoted by your current lender — and their incentive isn't to give you the best rate. Always compare blend-and-extend against breaking-and-switching before deciding."
+    }
+  ],
+  "related": ["mortgage-renewals", "refinancing-your-home", "prepayment-penalties"],
+  "keywords": ["early mortgage renewal Canada", "blend and extend mortgage", "mortgage break penalty"]
+}

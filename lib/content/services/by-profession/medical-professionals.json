@@ -1,0 +1,53 @@
+{
+  "slug": "medical-professionals",
+  "category": "by-profession",
+  "categoryLabel": "Mortgage By Profession",
+  "title": "Mortgages for Medical Professionals",
+  "shortTitle": "Medical Professionals",
+  "metaTitle": "Physician Mortgages in Canada — Resident & Specialist Programs",
+  "metaDescription": "Mortgage programs for physicians, residents, fellows and dentists across Canada. Student-debt waivers, contract-income recognition and high-LTV physician programs.",
+  "intro": "Physicians, residents, fellows and dentists have access to lender programs the general public doesn't. The right program can waive student-debt counting, recognize 100% of contract income, and offer up to 95% LTV on a primary residence.",
+  "body": [
+    {
+      "heading": "Why physician programs exist",
+      "paragraphs": [
+        "Lenders compete hard for medical professionals because they're a low-default group with rising income trajectories. The result is a series of dedicated programs at most major lenders — National Bank, RBC, Scotiabank and TD all have physician-specific desks, as do several credit unions in BC.",
+        "Typical features: residency and fellow contracts accepted as qualifying income (rather than waiting for permanent appointments), student-debt minimum payments waived or reduced, 95% LTV available on primary residences, larger insured caps, and lower documentation thresholds for incorporated practitioners."
+      ]
+    },
+    {
+      "heading": "What works best by stage of career",
+      "paragraphs": [
+        "PGY1–PGY5 residents: focus on physician programs that accept the contract-based income, ignore student debt, and offer 95% LTV on a starter home. Fellows: similar story, often with slightly higher caps. Practising physicians: incorporated structure usually allows BFS gross-up plus retained-earnings recognition, opening up Greater Vancouver detached purchase prices. Specialists with multiple T4As: specialty desks that consolidate multiple income streams from hospitals, clinics and locum work."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are a medical resident, fellow or practising physician",
+    "Are a dentist (similar programs apply)",
+    "Have student debt that's affecting your qualifying ratios",
+    "Are buying your first home or moving up after residency"
+  ],
+  "requirements": [
+    "CMA or provincial regulatory body license number",
+    "Current contract or appointment letter",
+    "Last 1–2 years of T4s or T4As if available",
+    "Standard ID and down-payment documents"
+  ],
+  "faqs": [
+    {
+      "question": "Are physician mortgage rates better?",
+      "answer": "Sometimes — rates may be 5–15 bps below standard pricing at lenders with physician programs. The bigger benefit is usually qualification flexibility, not rate."
+    },
+    {
+      "question": "Do I qualify as a resident?",
+      "answer": "Yes — most physician programs explicitly recognize residency contracts. You'll need a current contract letter and proof of your residency program."
+    },
+    {
+      "question": "Can dentists access physician programs?",
+      "answer": "Many but not all — some lenders extend physician programs to dentists, optometrists and pharmacists. I'll match your file to the lenders whose program covers your profession."
+    }
+  ],
+  "related": ["self-employed", "first-time-home-buyers", "buying-your-next-home"],
+  "keywords": ["physician mortgage Canada", "doctor mortgage BC", "resident mortgage Vancouver", "dentist mortgage Canada"]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "cash-back-mortgages",
+  "category": "other-programs",
+  "categoryLabel": "Other Programs",
+  "title": "Cash-Back Mortgages — When the Lender Pays You at Funding",
+  "shortTitle": "Cash-Back Mortgages",
+  "metaTitle": "Cash-Back Mortgage in Canada — When It Makes Sense",
+  "metaDescription": "Cash-back mortgages return 1–7% of your mortgage amount as cash at funding. Useful for closing costs and renovations — when the higher rate is worth it.",
+  "intro": "A cash-back mortgage gives you a lump sum at funding — typically 1–7% of the mortgage amount — in exchange for a higher rate over the term. Used carefully, it can fund closing costs, basic renovations or moving expenses. Used carelessly, it costs more than it gives.",
+  "body": [
+    {
+      "heading": "How the math works",
+      "paragraphs": [
+        "Suppose you take a $700,000 mortgage with 5% cash back ($35,000) at a rate that's 0.50% higher than market. Over a 5-year term, that 0.50% premium costs you roughly $17,500 in extra interest. Net benefit at the 5-year mark: $17,500. Worth it if you can put the cash to better use elsewhere; not worth it if you'd otherwise just pay the lower rate.",
+        "Two real catches: most cash-back mortgages have a clawback clause. If you break or pay off the mortgage early, the lender claws back a pro-rated portion of the cash advance. So plan to stay full term."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Need closing-cost or moving-cost cash and don't want to drain your down payment",
+    "Plan to stay in the mortgage for the full term",
+    "Will use the cash productively (renovations, debt paydown)"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use the cash for the down payment?",
+      "answer": "No — cash-back funds advance at closing, after the mortgage is registered. Down payment must come from your own savings or other accepted sources."
+    },
+    {
+      "question": "Are cash-back mortgages a good deal?",
+      "answer": "Sometimes. Run the math — extra interest cost over the term vs. the cash benefit. If you'd just save the money, the lower-rate non-cash-back mortgage almost always wins."
+    }
+  ],
+  "related": ["first-time-home-buyers", "buying-your-next-home", "special-programs"],
+  "keywords": ["cash back mortgage Canada", "cash back at closing"]
+}

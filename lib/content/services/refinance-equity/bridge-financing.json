@@ -1,0 +1,51 @@
+{
+  "slug": "bridge-financing",
+  "category": "refinance-equity",
+  "categoryLabel": "Refinance & Equity Access",
+  "title": "Bridge Financing — Buy Before You Sell",
+  "shortTitle": "Bridge Financing",
+  "metaTitle": "Bridge Financing in BC — Buy Before Selling",
+  "metaDescription": "Bridge loans for Greater Vancouver homeowners buying before selling. How they work, what they cost, and how to qualify when closings don't line up.",
+  "intro": "When the new home closes before the old one sells, bridge financing covers the down-payment gap. Short-term, slightly expensive, but enormously useful when timing won't cooperate.",
+  "body": [
+    {
+      "heading": "How bridge loans work",
+      "paragraphs": [
+        "A bridge loan is a short-term loan secured against the equity in your existing home, designed to cover the down payment on your next purchase until your existing home sells. Most lenders require your existing home to be firm-sold (subjects removed) before they'll fund a bridge — though some will fund a 'pending sale' bridge against an active listing with strong comparables.",
+        "Terms are typically 30 to 120 days. Rate is prime + 2–4%. Setup fee is usually $300–$500. The bridge is repaid in full when the existing home's sale completes — there's no monthly payment in the meantime; interest accrues and is paid out of sale proceeds."
+      ]
+    },
+    {
+      "heading": "Math on a typical Greater Vancouver bridge",
+      "paragraphs": [
+        "Old home selling for $1.2M with $400K equity. New home buying for $1.5M, needing $300K down. Closings are 45 days apart. Bridge loan = $300K for 45 days at prime + 3% (≈9% in 2026) = ~$3,300 in interest. That's the cost of being able to buy before selling — usually well worth the predictability."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Have firm-sold your existing home but the closings don't line up",
+    "Want to avoid making your offer subject-to-sale (weakens the offer significantly)",
+    "Need flexibility to move on your own schedule, not the buyer's"
+  ],
+  "requirements": [
+    "Firm contract of purchase and sale on existing home (or strong listing for some lenders)",
+    "Purchase contract on new home",
+    "Mortgage approval on new home with the same lender (most bridges are tied to the new mortgage)"
+  ],
+  "faqs": [
+    {
+      "question": "Can I bridge without a firm sale on my existing home?",
+      "answer": "Some monoline and credit-union lenders offer 'open bridge' or 'pending sale bridge' financing — pricier (prime + 4–5%) and capped at lower amounts. Best avoided if you can sell first."
+    },
+    {
+      "question": "What if my old home doesn't sell during the bridge?",
+      "answer": "Most bridges can be extended for an additional 30–60 days at the same rate, with lender approval. Past that, the bridge converts to a different product (typically a HELOC or second mortgage) at higher cost."
+    },
+    {
+      "question": "Is the interest deductible?",
+      "answer": "Usually no — bridge financing on a personal residence is not tax-deductible. If the new property is a rental, the interest portion attributable to the rental could be deductible; consult your accountant."
+    }
+  ],
+  "related": ["buying-your-next-home", "second-and-third-mortgages", "home-equity-line-of-credit"],
+  "keywords": ["bridge financing Vancouver", "bridge loan BC", "buy before sell mortgage"]
+}

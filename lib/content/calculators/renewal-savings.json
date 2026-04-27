@@ -1,0 +1,36 @@
+{
+  "slug": "renewal-savings",
+  "title": "Mortgage Renewal Savings Calculator",
+  "metaTitle": "Mortgage Renewal Savings Calculator (Canada)",
+  "metaDescription": "Compare your bank's renewal letter offer to a broker-shopped rate. See exactly how much you'll save over your term and full amortization.",
+  "intro": "Don't auto-sign your renewal letter. See exactly how much your lender's rate is costing you compared to a broker-shopped rate — both per month and across the full term.",
+  "description": [
+    "When your mortgage term ends, your lender mails you a renewal offer 30–120 days before maturity. That offer is almost always 15–60 basis points (0.15%–0.60%) above the lowest rate the same lender will offer when you push back, or transfer the mortgage to another lender. The convenience cost is real money — typically thousands of dollars over a 5-year term on a Greater Vancouver mortgage.",
+    "This calculator shows the difference. Plug in your remaining balance, remaining amortization, the rate on your renewal letter, and a realistic broker-shopped rate (the calculator defaults to a 40-bps gap, which is conservative). You'll see your monthly savings, your total savings over the new term, and the full-amortization difference.",
+    "Renewing with a different lender is called a 'switch' or 'transfer' — and on a straight switch with no equity take-out and no amortization extension, the new lender almost always covers your discharge and legal fees. There's typically zero out-of-pocket cost to move.",
+    "The renewal window is the single most underused negotiation moment in Canadian mortgages. Use it. Even if you stay with your current lender, a broker pushing back on your behalf usually drops your renewal rate by 15–30 bps."
+  ],
+  "faqs": [
+    {
+      "question": "Why would my lender offer me a worse rate than a new customer?",
+      "answer": "Because most clients sign the first letter without negotiating. The lender's renewal department is a profit center; the new-customer team is a sales team. Different incentives produce different rates."
+    },
+    {
+      "question": "If I switch lenders, am I starting over?",
+      "answer": "No. A switch keeps your remaining amortization intact. You just move the existing balance to a new lender at a new rate. Your payments may change because the rate is different, but you're not 're-amortizing' the loan."
+    },
+    {
+      "question": "Will switching cost me money?",
+      "answer": "On a straight switch (same balance, no extension, no take-out), the new lender covers discharge fees, legal fees and appraisal in most cases. Out-of-pocket cost is usually zero. If you want to break early or take out equity, that's a refinance — different rules apply."
+    },
+    {
+      "question": "When should I start shopping?",
+      "answer": "Begin 90–120 days before your term ends. Most lenders will hold a new rate for 90 days, so locking early protects you against rate increases without locking you out of better rates later."
+    },
+    {
+      "question": "Does this work for variable-rate mortgages?",
+      "answer": "Yes — at renewal you can switch product type (fixed to variable or vice versa) without penalty. Use this calculator to compare your renewal letter against any rate you're considering."
+    }
+  ],
+  "related": ["mortgage-payment", "refinance-savings"]
+}

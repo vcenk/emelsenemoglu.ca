@@ -1,0 +1,46 @@
+{
+  "slug": "second-and-third-mortgages",
+  "category": "investment-vacation",
+  "categoryLabel": "Investment & Vacation",
+  "title": "Second & Third Mortgages in BC",
+  "shortTitle": "Second & Third Mortgages",
+  "metaTitle": "Second Mortgage BC — Equity Take-Out Without Breaking",
+  "metaDescription": "Second and third mortgages for Greater Vancouver homeowners. Avoid breaking a low-rate first mortgage by adding a second charge. Rates, terms and use cases.",
+  "intro": "When you have a low-rate first mortgage and big penalty to break it, a second mortgage lets you tap equity without touching the existing structure.",
+  "body": [
+    {
+      "heading": "Why a second mortgage instead of a refinance?",
+      "paragraphs": [
+        "If your first mortgage is at 2.5% with $30,000 of IRD penalty to break, refinancing to pull out $100,000 of equity at 5% wipes out most of the savings rationale. A second mortgage at 6.5–8.5% on just the $100,000 leaves your first mortgage intact and only costs interest on the new portion.",
+        "Second mortgages sit behind your first in priority, which is why their rate is higher — the lender takes more risk on a default-and-sale scenario. Common second-mortgage uses: down payment for an investment property, business capital, education funding, large renovation when you don't qualify for a refinance, debt consolidation when refinancing isn't worth the penalty."
+      ]
+    },
+    {
+      "heading": "Third mortgages",
+      "paragraphs": [
+        "Possible but expensive. Rates on third mortgages typically run 9–14% (private lenders), and they're typically short-term (6–24 months). Use them only as a bridge to a refinance or sale — not as long-term financing."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Have a low-rate first mortgage with a big break penalty",
+    "Need short-to-medium-term equity access",
+    "Are using the funds for a clear purpose (investment, renovation, business)"
+  ],
+  "faqs": [
+    {
+      "question": "How is qualification different?",
+      "answer": "Second-mortgage lenders look more at the equity and exit strategy than at conventional income ratios. Many B-lenders and private lenders fund seconds on stated-income or equity-based programs."
+    },
+    {
+      "question": "What's a typical second-mortgage rate?",
+      "answer": "B-lender seconds: 6.5–9%. Private seconds: 8–12%. Plus typical setup fees of 1–2% of the loan amount. Always model the all-in cost vs. refinancing the first."
+    },
+    {
+      "question": "Can I add a HELOC instead?",
+      "answer": "If you have room within the 80% combined LTV cap and your file qualifies, a HELOC is usually cheaper. A second mortgage makes sense when HELOC qualifying isn't available or you need a fixed-payment structure."
+    }
+  ],
+  "related": ["home-equity-line-of-credit", "refinancing-your-home", "bridge-financing"],
+  "keywords": ["second mortgage BC", "second mortgage Vancouver", "private second mortgage Canada", "third mortgage Canada"]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "self-employed-mortgage-guide",
+  "title": "Self-Employed Mortgages in Canada: The Full Guide",
+  "metaTitle": "Self-Employed Mortgage Canada — Full Guide for BFS Borrowers",
+  "metaDescription": "Complete guide to getting a mortgage when you're self-employed in Canada. BFS gross-up, stated income, alt-A and how to qualify with tax-optimized income.",
+  "excerpt": "Tax-optimizing your income legitimately doesn't mean accepting a worse mortgage. Here's how to qualify when your line 150 looks low.",
+  "category": "Self-Employed",
+  "tags": ["self employed mortgage Canada", "BFS mortgage", "incorporated mortgage", "stated income"],
+  "publishedAt": "2026-03-11",
+  "readingMinutes": 9,
+  "body": [
+    {
+      "heading": "The self-employed mortgage problem",
+      "paragraphs": [
+        "Roughly a quarter of Canadian workers are self-employed, but lender underwriting was built around T4 employees. The result: smart self-employed borrowers who legitimately optimize their tax bill end up with line 150 income that doesn't reflect what they actually earn — and standard mortgage qualifying penalizes them for it.",
+        "There are four ways lenders work around this. The right one for you depends on how long you've been self-employed, whether you're incorporated, and how much retained earnings sit in your corporation."
+      ]
+    },
+    {
+      "heading": "Path 1: Standard income, no add-back",
+      "paragraphs": [
+        "If your declared T1 line 150 supports the mortgage you want, you go through standard A-lender underwriting just like a salaried employee would. Two years of T1 generals, two years of NOAs, business license or articles of incorporation. Best rates, easiest path."
+      ]
+    },
+    {
+      "heading": "Path 2: BFS gross-up at A-lenders",
+      "paragraphs": [
+        "Most A-lenders offer 'BFS gross-up' programs: they add 15% back to your declared income, recognizing that tax-optimization legitimately understates your real cash flow. Same documentation as standard. Slight rate premium — typically 0–10 bps. The standard answer for self-employed borrowers with 2+ years of T1 returns."
+      ]
+    },
+    {
+      "heading": "Path 3: Stated-income at B-lenders and credit unions",
+      "paragraphs": [
+        "B-lenders (Home Trust, Equitable, MCAP B-side) and BC credit unions (Vancity, Coast Capital, BlueShore) offer stated-income programs. You state a reasonable income for your industry, supported by 6–12 months of business and personal bank statements. Rate premium 0.5–1.5%. Useful when your line 150 is too low for A-lender qualifying even with the gross-up."
+      ]
+    },
+    {
+      "heading": "Path 4: Equity-based (alt-A and private)",
+      "paragraphs": [
+        "When neither income recognition path works — short self-employment history, big retained earnings, complex corporate structure — equity-based lending steps in. The property equity does most of the qualifying. 25–35% down payment minimum, rates 0.5–1.5% above A-lender. Used as a 12–24 month bridge until you can graduate to standard programs."
+      ]
+    },
+    {
+      "heading": "Documents you'll need (for any path)",
+      "bullets": [
+        "Last 2 years of T1 General returns",
+        "Last 2 years of Notices of Assessment (NOAs) — confirms taxes are paid",
+        "Last 2 years of T2 corporate returns if incorporated",
+        "Articles of incorporation, business license, or HST registration",
+        "Last 6 months of business and personal bank statements",
+        "Year-to-date profit-and-loss statement",
+        "ID and standard down-payment documentation"
+      ]
+    },
+    {
+      "heading": "Common mistakes self-employed buyers make",
+      "paragraphs": [
+        "Mistake 1: Telling your bank's branch you're self-employed and accepting their first answer. Most bank branches don't know their own BFS programs well; they default to declined or full-document standard underwriting. Mistake 2: Aggressively reducing income for tax in the year you apply. Lenders want to see your last 2 years — sudden drops trigger questions. Plan ahead by 12 months. Mistake 3: Pulling money from your corporation to your personal account 30 days before closing without documentation. Lenders need 90-day account history; sudden deposits raise AML flags."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long do I need to be self-employed before I can qualify?",
+      "answer": "Most A-lender programs want 2 years. Some B-lenders and credit unions accept 1 year with strong bank statements. Brand-new businesses typically need to wait until they've filed a tax return."
+    },
+    {
+      "question": "Can I qualify on my corporation's retained earnings?",
+      "answer": "Some lenders factor retained earnings into qualifying — but most prefer to see income that's been paid out as personal salary or dividends. If retained earnings are large, an equity-based approach often works."
+    }
+  ],
+  "relatedPosts": ["heloc-vs-refinance", "stress-test-explained-2026"],
+  "relatedServices": ["self-employed", "equity-based-mortgages", "complex-mortgage-solutions"]
+}

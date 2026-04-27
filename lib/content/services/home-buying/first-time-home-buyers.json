@@ -1,0 +1,90 @@
+{
+  "slug": "first-time-home-buyers",
+  "category": "home-buying",
+  "categoryLabel": "Home Buying",
+  "title": "First-Time Home Buyer Mortgages in Greater Vancouver",
+  "shortTitle": "First-Time Home Buyer",
+  "metaTitle": "First-Time Home Buyer Mortgage — Greater Vancouver, BC",
+  "metaDescription": "First-time home buyer mortgages, programs, and incentives across Greater Vancouver and BC. PTT exemption, Tax-Free First Home Savings Account, RRSP HBP and 30-year amortization explained.",
+  "intro": "Buying your first home in Greater Vancouver is the single largest financial decision most people make. The right mortgage strategy can save you tens of thousands — and there are several first-time buyer programs that compound to make a real difference.",
+  "body": [
+    {
+      "heading": "Programs that actually move the needle",
+      "paragraphs": [
+        "There are five federal and provincial first-time buyer programs worth knowing about, and three of them are genuinely useful. The First Home Savings Account (FHSA) lets you contribute up to $8,000 per year, $40,000 total, with both the deposit and the withdrawal tax-free when used for a qualifying first home — it's the most powerful program of the bunch. The RRSP Home Buyers' Plan (HBP) lets you withdraw up to $60,000 per person ($120,000 for a couple) from your RRSP toward a down payment, repaid over 15 years interest-free.",
+        "The BC Property Transfer Tax first-time buyer exemption gives full PTT relief up to $500,000 of fair market value and partial relief up to $835,000 — typically $8,000–$16,000 in tax savings on a Greater Vancouver purchase. The federal 30-year amortization for first-time buyers (announced in 2024 and now active) lowers your stress-tested payment by roughly 8–12%, which directly increases what you can qualify for."
+      ]
+    },
+    {
+      "heading": "How much down payment do you really need?",
+      "paragraphs": [
+        "The minimum down payment in Canada is 5% on the first $500,000 of purchase price and 10% on the portion from $500,000 to $1,500,000. On a $950,000 Burnaby townhouse, that's $25,000 + $45,000 = $70,000 minimum. Above $1.5M, you need 20% down on the entire purchase price.",
+        "Below 20% down, your mortgage must be insured (CMHC, Sagen or Canada Guaranty) and a one-time premium of 2.4–4.0% gets added to your mortgage balance. That premium is generally rolled into your payments so you don't write a separate cheque, but it does mean you owe slightly more than the purchase price minus your down payment."
+      ],
+      "bullets": [
+        "Vancouver townhouse at $950,000 → $70,000 minimum down (insured)",
+        "Surrey detached at $1,250,000 → $100,000 minimum down (insured)",
+        "West Vancouver detached at $2,200,000 → $440,000 minimum down (uninsured)",
+        "Add ~2–4% closing costs (PTT, legal, adjustments) on top of your down payment"
+      ]
+    },
+    {
+      "heading": "What lenders actually look at",
+      "paragraphs": [
+        "Pre-approval comes down to four numbers: gross household income, total monthly debt obligations, credit score, and confirmed down payment. The federal stress test applies: you'll be qualified at the higher of your contract rate plus 2% or the 5.25% federal floor, whichever is higher.",
+        "Credit-wise, you want a beacon score of 680+ for the most competitive insured rates, though I've placed first-time buyer files with scores in the 620s. Below 600, you're looking at credit unions or B-lenders — still doable, but pricier."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Have never owned a principal residence anywhere in the world",
+    "Are a Canadian citizen or permanent resident living in BC",
+    "Plan to occupy the home as your principal residence within 92 days",
+    "Have at least 5% saved (or in an FHSA / RRSP HBP)"
+  ],
+  "requirements": [
+    "Two recent paystubs (or 2 years of self-employed financials)",
+    "T4s or NOAs for the last 2 years",
+    "90-day history of down payment in your account",
+    "Government-issued photo ID and SIN",
+    "Proof of any FHSA / RRSP HBP balances you'll use"
+  ],
+  "process": [
+    { "step": "Free pre-qualification", "detail": "20-minute call to find your realistic price range and the right program mix for your situation." },
+    { "step": "Submit pre-approval", "detail": "I underwrite your file fully and lock in a rate hold for 90–120 days." },
+    { "step": "Make your offer", "detail": "House-hunt with confidence; we move to subject-removal once you find the right property." },
+    { "step": "Closing", "detail": "I coordinate with your lender, real-estate lawyer and realtor through funding day." }
+  ],
+  "faqs": [
+    {
+      "question": "Can I combine the FHSA and RRSP Home Buyers' Plan?",
+      "answer": "Yes — and you should. Maxing both for a couple gives you up to $80,000 from FHSAs and $120,000 from RRSPs, all tax-free or tax-deferred. That's $200,000 of down payment for two people who've been saving for a few years."
+    },
+    {
+      "question": "What's the cheapest neighbourhood to buy in Greater Vancouver as a first-time buyer?",
+      "answer": "In 2026, condo entry-points are typically Surrey Central, Coquitlam Town Centre, Maple Ridge and parts of Burnaby Heights. Townhouses run higher. I help clients align neighbourhood choice with what their numbers can actually support."
+    },
+    {
+      "question": "Is the BC Home Owner Mortgage and Equity Partnership still available?",
+      "answer": "No — that program was discontinued in 2018. The current BC programs are the PTT exemption (active), and the federal FHSA, RRSP HBP and 30-year amortization options."
+    },
+    {
+      "question": "Can I qualify with student debt?",
+      "answer": "Yes. Student loan minimum payments are included in your TDS calculation, but they don't disqualify you. Some lenders allow OSAP loans in repayment to be calculated at 1% of the balance instead of the actual payment, which helps."
+    }
+  ],
+  "related": ["pre-approval", "pre-qualify", "homeownership-journey"],
+  "cta": {
+    "title": "Ready to start?",
+    "description": "Free 20-minute call to map out your first-time buyer plan — no documents, no pressure.",
+    "buttonLabel": "Book a free call"
+  },
+  "keywords": [
+    "first time home buyer Vancouver",
+    "first time home buyer BC",
+    "FHSA Vancouver",
+    "RRSP HBP",
+    "BC PTT exemption",
+    "first-time buyer mortgage broker Vancouver"
+  ]
+}

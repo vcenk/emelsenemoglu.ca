@@ -1,0 +1,32 @@
+{
+  "slug": "mortgage-payment",
+  "title": "Canadian Mortgage Payment Calculator",
+  "metaTitle": "Canadian Mortgage Payment Calculator (BC, 2026)",
+  "metaDescription": "Free Canadian mortgage payment calculator. Calculate principal-and-interest payments with proper semi-annual compounding. Built by a Greater Vancouver mortgage broker.",
+  "intro": "Estimate your monthly, bi-weekly or accelerated bi-weekly mortgage payment with proper Canadian semi-annual compounding. See how much you'll pay each year and what your balance looks like after the term ends.",
+  "description": [
+    "Canadian mortgages are different from American ones in a subtle but important way: by federal law, fixed-rate mortgages compound semi-annually rather than monthly. That means a 4.99% mortgage doesn't apply 4.99/12 each month — it applies an effective monthly rate derived from (1 + 0.0499/2)^(2/12) - 1. The difference is small per payment but adds up over a 25-year amortization.",
+    "This calculator uses that exact formula. The headline number is your principal-and-interest payment only — it does not include property tax, home insurance, utilities, or CMHC mortgage default insurance premiums. For a Greater Vancouver detached home, expect to budget another $400–$700 per month for property tax and insurance.",
+    "Want to see the effect of bi-weekly versus accelerated bi-weekly payments? An accelerated bi-weekly schedule pays slightly more per year (effectively one extra monthly payment) and shaves several years off your amortization. The calculator shows both.",
+    "Once you've explored a scenario you like, the next step is a real pre-approval — the lender's qualifying rate (the federal stress test) is higher than your contract rate, so the most you can borrow is determined by that, not by this calculator alone."
+  ],
+  "faqs": [
+    {
+      "question": "Why doesn't this match my bank's calculator exactly?",
+      "answer": "Some bank calculators round to the nearest dollar, ignore Canadian compounding, or use a slightly different day-count convention. The formula here matches what most Canadian lenders actually use to amortize fixed-rate mortgages."
+    },
+    {
+      "question": "Does this include property tax and insurance?",
+      "answer": "No. The payment shown is principal and interest only. To estimate your true monthly housing cost, add property tax (roughly 0.25–0.45% of your home's value per year, divided by 12) and home insurance (typically $80–$200/month in Greater Vancouver)."
+    },
+    {
+      "question": "What's a realistic Greater Vancouver mortgage payment?",
+      "answer": "On a $1.1M Burnaby townhouse with 20% down at a 4.99% 5-year fixed over 25 years, you're looking at approximately $5,100/month before tax and insurance. Use the calculator with your specific numbers."
+    },
+    {
+      "question": "What happens at the end of the 5-year term?",
+      "answer": "You renew at the prevailing rate. The 'balance after term' figure shows what you'll owe when the term ends. Renewing with the same lender often costs more than shopping the market — see the Renewal Savings Calculator."
+    }
+  ],
+  "related": ["affordability", "land-transfer-tax", "renewal-savings"]
+}

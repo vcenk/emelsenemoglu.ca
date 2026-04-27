@@ -1,0 +1,42 @@
+{
+  "slug": "second-property",
+  "category": "investment-vacation",
+  "categoryLabel": "Investment & Vacation",
+  "title": "Second Property Mortgage — Family Help, Co-Ownership, 5% Down",
+  "shortTitle": "Second Property",
+  "metaTitle": "Second Property Mortgage in BC — 5% Down Programs",
+  "metaDescription": "Buying a second property in BC for family use, co-ownership or as a starter home for adult children. Programs starting at 5% down — the rules explained.",
+  "intro": "Buying a second property — for an adult child, an aging parent, or family co-ownership — has its own rules. With careful structuring you may qualify with as little as 5% down, even though it's not your primary residence.",
+  "body": [
+    {
+      "heading": "Owner-occupied second properties",
+      "paragraphs": [
+        "Most insured high-ratio mortgage programs (5–10% down) are reserved for owner-occupied principal residences. There's a specific exception: a second property occupied by an immediate family member (parent, adult child, sibling) on a rent-free or below-market basis can qualify under owner-occupied programs at most lenders.",
+        "This is how families help adult children buy a starter condo in Burnaby or Surrey. The parent provides the down payment, qualifies on their own income (since the child usually doesn't qualify alone), and the property is occupied by the child as their principal residence. Several BC credit unions have specific 'family-help' programs for this scenario."
+      ]
+    },
+    {
+      "heading": "Co-ownership structures",
+      "paragraphs": [
+        "Co-ownership — two or more unrelated parties sharing a home — is increasingly common in Greater Vancouver. Each co-owner is on title and on the mortgage, with all parties jointly liable. Lenders treat co-ownership as a standard joint application; the practical complications are about life events (one party wanting to sell, divorce, death) which need a co-ownership agreement drafted by a lawyer."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are helping an adult child or parent buy a home",
+    "Are buying with siblings or a friend",
+    "Need a structure that fits family-help or co-ownership scenarios"
+  ],
+  "faqs": [
+    {
+      "question": "Can I gift the down payment to my child for their first home?",
+      "answer": "Yes — gifted down payment from immediate family is universally accepted. You'll need to sign a gift letter confirming the funds are a gift, not a loan."
+    },
+    {
+      "question": "What if I'm a co-signor and don't live in the home?",
+      "answer": "You're still liable. Co-signor structures work, but the lender treats your existing mortgage payment as part of your TDS — meaning you may not qualify for a future purchase of your own. Consider a guarantor structure (lighter liability) where possible."
+    }
+  ],
+  "related": ["first-time-home-buyers", "vacation-secondary-homes", "investment-properties"],
+  "keywords": ["second property mortgage BC", "family help mortgage Vancouver", "co-ownership mortgage Canada", "buy condo for adult child"]
+}

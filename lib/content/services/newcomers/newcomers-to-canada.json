@@ -1,0 +1,43 @@
+{
+  "slug": "newcomers-to-canada",
+  "category": "newcomers",
+  "categoryLabel": "Newcomers & Non-Residents",
+  "title": "Newcomers to Canada — Mortgage Guide for First Five Years",
+  "shortTitle": "Newcomers to Canada",
+  "metaTitle": "Newcomers to Canada Mortgage — First Five Years",
+  "metaDescription": "How to qualify for a mortgage in your first five years in Canada. Practical guide for permanent residents and work-permit holders settling in Greater Vancouver.",
+  "intro": "Buying a home in your first few years in Canada is more achievable than most newcomers think — if you understand which programs apply and which lenders specialize in newcomer files.",
+  "body": [
+    {
+      "heading": "Build Canadian credit fast",
+      "paragraphs": [
+        "Apply for a Canadian credit card on day one — even a secured card if your foreign credit isn't recognized. Pay it on time, every month. Six months of clean Canadian credit history opens up more lender options than any other single thing you can do.",
+        "Add a small unsecured loan or line of credit at month 6–9 to broaden the credit mix. Avoid maxing utilization (keep balances under 30% of limits). By month 12 you'll have a usable Canadian beacon score; by month 24 you'll have full lender access at competitive rates."
+      ]
+    },
+    {
+      "heading": "What lenders look for in years 1–5",
+      "paragraphs": [
+        "Stable Canadian employment is the single strongest factor. T4 income from a Canadian employer for 6+ months opens almost all newcomer programs. Permanent residency status (vs. work permit) opens additional options — particularly insured mortgages above 90% LTV.",
+        "Down payment can come from overseas with proper documentation. Family gifts are accepted with a gift letter. RRSP HBP and FHSA can also be used by newcomers — you become eligible to contribute the moment you have Canadian earned income."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Have been in Canada less than 5 years",
+    "Have stable Canadian employment",
+    "Are ready to commit to Canada long-term"
+  ],
+  "faqs": [
+    {
+      "question": "How long should I wait before buying?",
+      "answer": "There's no magic number. Some clients buy at month 6 with strong income and a co-signer. Others wait until year 3 to build credit and savings. The right answer depends on your specific income, savings rate and life plans."
+    },
+    {
+      "question": "Can I include my spouse's overseas income?",
+      "answer": "Generally no — most lenders only count income earned in Canada (or a country with a tax treaty and verifiable income). Overseas income from your home country usually doesn't qualify unless it's continuing post-immigration."
+    }
+  ],
+  "related": ["new-to-canada", "non-resident-mortgage", "first-time-home-buyers"],
+  "keywords": ["newcomer mortgage Canada", "first 5 years mortgage Canada", "immigrant home buyer Vancouver"]
+}

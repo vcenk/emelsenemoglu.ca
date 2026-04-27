@@ -1,0 +1,4 @@
+Place a 1200x630 OpenGraph image here as: og-default.png
+
+Until the real image is provided, social shares fall back to plain text previews.
+A simple OG with brand colors (#0F4C3A background, cream wordmark) works fine.

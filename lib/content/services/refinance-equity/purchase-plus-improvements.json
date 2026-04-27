@@ -1,0 +1,51 @@
+{
+  "slug": "purchase-plus-improvements",
+  "category": "refinance-equity",
+  "categoryLabel": "Refinance & Equity Access",
+  "title": "Purchase Plus Improvements — Buy and Renovate with One Mortgage",
+  "shortTitle": "Purchase Plus Improvements",
+  "metaTitle": "Purchase Plus Improvements Mortgage — BC",
+  "metaDescription": "Buy and renovate with one mortgage using Purchase Plus Improvements. Roll up to $40,000 (insured) of renovations into your mortgage at the same rate. BC explained.",
+  "intro": "Buying a fixer-upper in Greater Vancouver? The Purchase Plus Improvements (PPI) program lets you roll renovation costs into your mortgage — at mortgage rates instead of credit-card or HELOC rates.",
+  "body": [
+    {
+      "heading": "How PPI works",
+      "paragraphs": [
+        "You provide quotes for your planned renovations as part of the mortgage application. The lender uses the post-renovation appraised value to size the mortgage, then advances the renovation funds to a lawyer's trust account on closing. As renovations are completed, the funds release on confirmation by an inspection or invoice.",
+        "Insured PPI mortgages can include up to $40,000 of improvements (or 20% of the post-improvement value, whichever is less). Conventional/uninsured PPI can go higher. The renovations must be permanent and add value — kitchens, bathrooms, flooring, additions, suite conversions, landscaping. Cosmetic items like furniture aren't covered."
+      ]
+    },
+    {
+      "heading": "Why PPI usually beats a separate renovation loan",
+      "paragraphs": [
+        "Renovation costs financed through a HELOC sit at prime + 0.5% (around 6–7% in 2026). Through PPI they sit at your mortgage rate (often 4–5%). On a $40,000 renovation amortized over 25 years, that's a meaningful savings — and you avoid the appraisal and underwriting costs of a separate refinance later."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Buying a property that needs immediate work",
+    "Want to add a legal suite, finish a basement or update kitchens/bathrooms",
+    "Are buying a home that's discounted because of its condition"
+  ],
+  "requirements": [
+    "Written quotes from licensed contractors for all proposed work",
+    "Standard purchase mortgage documents",
+    "An appraisal that includes a post-improvement value estimate"
+  ],
+  "faqs": [
+    {
+      "question": "Do I need to use specific contractors?",
+      "answer": "Most lenders require licensed, bonded contractors with quotes on letterhead. You can usually do some work yourself, but the lender often won't release funds for DIY labour — only for materials and contracted work."
+    },
+    {
+      "question": "When are the renovation funds released?",
+      "answer": "Typically after the work is completed and a final inspection or paid invoices are submitted. Some lenders allow staged releases mid-project. Plan to front the work or arrange short-term financing to bridge the gap."
+    },
+    {
+      "question": "Can I add a basement suite with PPI?",
+      "answer": "Yes — and this is a popular Greater Vancouver use case. Adding a legal secondary suite often increases the property's appraised value by more than the cost of the work, and creates rental income that helps with future qualification."
+    }
+  ],
+  "related": ["refinancing-your-home", "construction-mortgage", "home-equity-line-of-credit"],
+  "keywords": ["purchase plus improvements Canada", "PPI mortgage BC", "buy and renovate Vancouver"]
+}

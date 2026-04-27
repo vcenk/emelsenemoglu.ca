@@ -1,0 +1,49 @@
+{
+  "slug": "renewal-benefits",
+  "category": "renewals-transfers",
+  "categoryLabel": "Renewals & Transfers",
+  "title": "Mortgage Renewal Benefits — More Than Just the Rate",
+  "shortTitle": "Renewal Benefits",
+  "metaTitle": "Mortgage Renewal Benefits Beyond Rate — Vancouver Broker",
+  "metaDescription": "At renewal you can renegotiate prepayment privileges, payment frequency, portability terms, HELOC tie-ins and more — not just the rate. Full benefits list.",
+  "intro": "The rate is the headline, but it's not the only thing on the negotiation table at renewal. The terms around the rate often matter as much over a five-year term — sometimes more.",
+  "body": [
+    {
+      "heading": "What you can renegotiate",
+      "paragraphs": [
+        "Prepayment privileges (typically 10–20% of original balance per year, plus the ability to increase your payment by 10–20%) vary widely between lenders and even between products at the same lender. Choosing a lender with 20/20 privileges instead of 10/10 means you can knock years off your amortization with extra payments.",
+        "Portability terms — what happens if you move during the term — are another underrated benefit. Some lenders offer a 30-day port window; others give you 120 days. If you might move within five years, this matters."
+      ],
+      "bullets": [
+        "Prepayment privileges: 10/10, 15/15 or 20/20 — pick the highest you can",
+        "Payment frequency options: weekly, bi-weekly, accelerated bi-weekly, monthly",
+        "Portability: 30-day vs 120-day port windows differ enormously",
+        "Skip-a-payment: useful for self-employed clients with seasonal income",
+        "HELOC tie-in: combine a mortgage and HELOC into one product for revolving access",
+        "Rate-drop guarantees: floats you down if rates drop before closing"
+      ]
+    },
+    {
+      "heading": "What can't usually be renegotiated",
+      "paragraphs": [
+        "Penalty calculations are dictated by the lender's standard mortgage charge and aren't generally negotiable — but you can choose lenders whose penalty structure is friendlier. Monoline lenders almost universally have lower IRD penalties than the big banks. If there's any chance you'll break early, this is the single biggest term to factor into your renewal decision."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What's the most underrated benefit at renewal?",
+      "answer": "Penalty structure. Two lenders quoting the same rate can produce penalty calculations that differ by $20,000+ on the same mortgage. If your life is fluid, this matters more than 10 bps on the rate."
+    },
+    {
+      "question": "Can I switch from monthly to accelerated bi-weekly at renewal?",
+      "answer": "Yes — and you should consider it. Accelerated bi-weekly effectively pays one extra monthly payment per year, knocking 3–4 years off a 25-year amortization."
+    },
+    {
+      "question": "Should I add a HELOC at renewal?",
+      "answer": "If you have meaningful equity and want flexible access, yes — and renewal is the cheapest moment to set one up. You're already going through a credit and appraisal process; adding a HELOC at the same time costs little incremental effort."
+    }
+  ],
+  "related": ["mortgage-renewals", "transfers-and-switches", "home-equity-line-of-credit"],
+  "keywords": ["mortgage renewal benefits", "prepayment privileges Canada", "renewal terms BC"]
+}

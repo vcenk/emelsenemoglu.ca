@@ -1,0 +1,35 @@
+{
+  "slug": "home-buying",
+  "label": "Home Buying",
+  "title": "Home Buying Mortgages in Greater Vancouver",
+  "metaTitle": "Home Buying Mortgages — Greater Vancouver Mortgage Broker",
+  "metaDescription": "Plan, qualify and finance your home purchase across Greater Vancouver and BC. First-time buyer programs, pre-approvals, pre-qualifications and move-up purchases.",
+  "intro": "Whether you're buying your first condo in Burnaby or moving up to a Surrey detached home, the path to closing should feel clear — not improvised.",
+  "body": "<p>Buying a home in Greater Vancouver in 2026 is a different exercise than it was a decade ago. The federal stress test, BC's Property Transfer Tax structure, the foreign buyer ban, and the mortgage rate cycle have all changed what 'qualified' actually means. The five pages below walk through the steps in order — from a soft pre-qualification you can run in 15 minutes to the day you sign your closing documents.</p><p>What I do differently: I don't hand you a generic checklist. I look at your specific income picture (employed, self-employed, contract, mixed), your credit profile, your family situation, and the neighbourhoods you're targeting in Greater Vancouver — and I build a financing plan around <em>those</em> specifics. The lender, the rate, and the structure all flow from that.</p>",
+  "highlights": [
+    { "title": "Up to $1.5M insured", "description": "CMHC raised the insured mortgage cap to $1.5M, opening a wider range of Greater Vancouver homes to buyers with less than 20% down." },
+    { "title": "30-year amortization for first-time buyers", "description": "First-time buyers and buyers of new builds can now amortize an insured mortgage over 30 years — typically lowering monthly payments by 8–12%." },
+    { "title": "BC PTT first-time exemption", "description": "Full Property Transfer Tax exemption up to $500k of fair market value, partial up to $835k. Often $8k–$16k in savings." }
+  ],
+  "services": [
+    "first-time-home-buyers",
+    "pre-approval",
+    "pre-qualify",
+    "buying-your-next-home",
+    "homeownership-journey"
+  ],
+  "faqs": [
+    {
+      "question": "How much down payment do I need to buy in Greater Vancouver?",
+      "answer": "Federally, the minimum is 5% on the first $500,000 of purchase price and 10% on the portion from $500,000 to $1,500,000. On a $950,000 Burnaby townhouse, the minimum is $70,000 (5% of $500k + 10% of $450k). Above $1.5M, you need 20% down on the entire price."
+    },
+    {
+      "question": "Should I get pre-qualified or pre-approved?",
+      "answer": "Both. A pre-qualification is a quick conversation about what you can afford — usually 15 minutes, no documents. A pre-approval is a fully underwritten file with documents reviewed and a rate held for 90–120 days. Pre-qualify before you start house-hunting; pre-approve before you make an offer."
+    },
+    {
+      "question": "Do you only work with first-time buyers?",
+      "answer": "No. About 60% of my clients are second-or-third-time buyers — moving up, downsizing, relocating from Toronto or Calgary, or buying after a divorce. The process for repeat buyers is faster, but the strategy work matters even more."
+    }
+  ]
+}

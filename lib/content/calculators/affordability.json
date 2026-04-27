@@ -1,0 +1,36 @@
+{
+  "slug": "affordability",
+  "title": "Canadian Mortgage Affordability Calculator",
+  "metaTitle": "Mortgage Affordability Calculator (BC, Stress-Tested)",
+  "metaDescription": "How much mortgage can you afford in BC? Stress-tested affordability calculator using federal GDS/TDS ratios and the OSFI 5.25% qualifying rate floor.",
+  "intro": "Find out the maximum home price you can qualify for in Greater Vancouver — stress-tested using the same Gross Debt Service (GDS) and Total Debt Service (TDS) ratios federally regulated lenders use.",
+  "description": [
+    "Affordability in Canada is constrained by two ratios: Gross Debt Service (GDS) and Total Debt Service (TDS). GDS measures your housing costs (mortgage payment, property tax, heating, half of condo fees) against your gross income — typical lender limits are 35–39%. TDS adds your other monthly debts (credit cards, car loans, student loans, child support) and is typically capped at 42–44%.",
+    "The OSFI mortgage stress test requires federally regulated lenders to qualify you at the higher of your contract rate plus 2% or the 5.25% qualifying rate floor. That's the rate this calculator uses to determine your maximum mortgage. If your contract rate is 4.99%, you'll be qualified at 6.99%.",
+    "The output is an estimate of your maximum mortgage and the maximum home price you could buy at the down-payment percentage you choose. It does not include CMHC mortgage default insurance premiums — those apply when your down payment is less than 20% — and does not account for lender-specific overlays.",
+    "Affordability is one of the few mortgage decisions where you genuinely should aim lower than your maximum. The maximum tells you what you can qualify for. Your real budget should account for life: kids, vacations, retirement savings, and rate increases at renewal."
+  ],
+  "faqs": [
+    {
+      "question": "Why is my qualifying rate higher than the rate I'd actually get?",
+      "answer": "Federally regulated lenders are required to qualify you at the higher of your contract rate + 2% or 5.25%. This is the federal mortgage stress test. The actual rate you pay is your contract rate, but qualification math uses the stress-tested rate."
+    },
+    {
+      "question": "What's the difference between GDS and TDS?",
+      "answer": "GDS only includes housing costs (mortgage, property tax, heating, half of condo fees). TDS adds all other monthly debt obligations. Whichever ratio caps lower determines your maximum mortgage."
+    },
+    {
+      "question": "Does this work for self-employed buyers?",
+      "answer": "If you're salaried with T4 income, this calculator is accurate. Self-employed and BFS (business-for-self) borrowers often qualify on different income recognition (2-year average, gross-up, stated-income programs). I can run an accurate self-employed scenario for you in our consultation."
+    },
+    {
+      "question": "Is the maximum price I can afford really what I should buy?",
+      "answer": "Almost never. Buying at your absolute max leaves no room for property tax increases, rate increases at renewal, lifestyle costs and surprises. Most clients I work with aim for 80–90% of their stress-tested maximum."
+    },
+    {
+      "question": "What if I have a co-signer?",
+      "answer": "A co-signer's income and debts get added to yours and the same GDS/TDS ratios apply to the combined picture. This calculator doesn't model co-signers directly — book a call and we'll run your real scenario."
+    }
+  ],
+  "related": ["mortgage-payment", "land-transfer-tax", "refinance-savings"]
+}

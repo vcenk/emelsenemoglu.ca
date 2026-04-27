@@ -1,0 +1,48 @@
+{
+  "slug": "renewing-your-mortgage",
+  "category": "renewals-transfers",
+  "categoryLabel": "Renewals & Transfers",
+  "title": "Renewing Your Mortgage — A 90-Day Playbook",
+  "shortTitle": "Renewing Your Mortgage",
+  "metaTitle": "Mortgage Renewal Playbook — 90-Day Guide",
+  "metaDescription": "A clear 90-day plan for renewing your Canadian mortgage. What to do at 120, 90, 60 and 30 days before maturity to lock the best rate and terms.",
+  "intro": "Most renewals get rushed. Here's a calm, week-by-week plan starting 120 days out — the same one I run for every client whose term is ending.",
+  "body": [
+    {
+      "heading": "120 days out: take stock",
+      "paragraphs": [
+        "Your lender will mail a renewal letter around now. Open it but don't sign it. Pull your latest mortgage statement, check the outstanding balance, the remaining amortization and the maturity date. Forward both to me."
+      ]
+    },
+    {
+      "heading": "90 days out: lock something",
+      "paragraphs": [
+        "We compare your lender's offer to current market rates and pick the right move — renegotiate, switch, or refinance if you also want to take cash out. We lock a rate hold; this protects you against rate increases for the next 90 days. If rates fall during the hold, most lenders float you down."
+      ]
+    },
+    {
+      "heading": "60 days out: paperwork",
+      "paragraphs": [
+        "If you're switching, the new lender prepares discharge instructions and your file is fully underwritten. If you're staying, your renewal documents are signed and the new term begins automatically on maturity day."
+      ]
+    },
+    {
+      "heading": "30 days out: confirm and breathe",
+      "paragraphs": [
+        "Final confirmation of payment amounts, frequency, and PAD setup. Funds are positioned. On maturity day, the new mortgage takes over — same address, possibly a new lender, and a rate that you actually negotiated."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What if I miss the 120-day window?",
+      "answer": "Don't worry — anytime in the last 90 days still gives you negotiating room. Below 30 days, options narrow because some lenders need more time to fund a switch. Below 14 days, you're usually stuck with whatever your current lender offers."
+    },
+    {
+      "question": "Can I extend my amortization at renewal?",
+      "answer": "Renewing alone keeps the existing amortization. To extend, you'd refinance — different paperwork, potentially different rates and qualifying. We discuss whether that makes sense based on your goals."
+    }
+  ],
+  "related": ["mortgage-renewals", "transfers-and-switches", "renewal-benefits"],
+  "keywords": ["mortgage renewal checklist Canada", "when to renew mortgage", "120 day renewal"]
+}

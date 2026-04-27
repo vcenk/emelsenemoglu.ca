@@ -1,0 +1,49 @@
+{
+  "slug": "prepayment-penalties",
+  "category": "other-programs",
+  "categoryLabel": "Other Programs",
+  "title": "Pre-Payment Penalties & Privileges Explained",
+  "shortTitle": "Prepayment Penalties",
+  "metaTitle": "Prepayment Penalties in Canada — IRD vs 3 Months' Interest",
+  "metaDescription": "How Canadian mortgage prepayment penalties really work. IRD vs 3 months' interest, posted-rate vs discounted-rate IRD, and how to avoid surprises at break.",
+  "intro": "Most Canadian mortgage holders don't understand their prepayment penalty until they need to break. By then it's too late to choose differently. Here's how it works — and how to choose lenders whose math is friendlier.",
+  "body": [
+    {
+      "heading": "Two penalty calculations",
+      "paragraphs": [
+        "On a fixed-rate mortgage, you pay the greater of three months' interest or the Interest Rate Differential (IRD). On a variable-rate mortgage, almost always just three months' interest. That's why variable-rate holders have far more flexibility to break early.",
+        "Three months' interest is straightforward: your remaining balance × your interest rate × 3/12. On a $700,000 mortgage at 5%, that's about $8,750.",
+        "IRD is the killer. It compares your contract rate to the lender's current rate for a similar-remaining-term product, and charges you the rate difference × balance × remaining term. If rates dropped 1% since you signed, with 3 years left on a $700K mortgage, IRD ≈ $21,000."
+      ]
+    },
+    {
+      "heading": "Posted-rate IRD vs. discounted-rate IRD",
+      "paragraphs": [
+        "Big banks (RBC, TD, BMO, Scotia, CIBC, National) compute IRD using their posted rate — the inflated headline number they advertise — even though you got a discount off it. This produces dramatically larger penalties. Monoline lenders (MCAP, First National, Merix, RFA) and most credit unions compute IRD using your actual discounted rate, producing penalties typically 60–80% lower for the same scenario.",
+        "On a typical $700K Greater Vancouver mortgage with 3 years left, big-bank IRD might run $25,000–$40,000 while monoline IRD on the identical scenario runs $5,000–$12,000. That's the most expensive convenience charge in Canadian banking."
+      ]
+    },
+    {
+      "heading": "Prepayment privileges",
+      "paragraphs": [
+        "Most lenders allow 10–20% of original balance to be prepaid annually without penalty, plus payment increases of 10–20%. Choose the highest privilege you can — paying down principal without penalty knocks years off your amortization. Privileges generally don't carry over year to year; use them or lose them."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I find out my exact penalty?",
+      "answer": "Request a written 'payout statement' from your lender. Verbal quotes can be off by thousands. The written quote is good for 30 days."
+    },
+    {
+      "question": "Can I avoid IRD by waiting?",
+      "answer": "Yes — within the last 90 days of your term, most lenders waive the penalty entirely. Even before that, the IRD calculation amount shrinks as remaining term gets shorter."
+    },
+    {
+      "question": "Should I choose a lender just for the penalty calculation?",
+      "answer": "If there's any chance you'll break early — divorce, relocation, refinance, sale within 5 years — yes, factor penalty structure into your lender choice. Saving 10 bps on rate but adding $20K to potential penalty is a bad trade."
+    }
+  ],
+  "related": ["early-renewals", "refinancing-your-home", "no-commitment-mortgage"],
+  "keywords": ["prepayment penalty Canada", "mortgage IRD calculation", "discounted rate IRD", "monoline vs bank penalty"]
+}

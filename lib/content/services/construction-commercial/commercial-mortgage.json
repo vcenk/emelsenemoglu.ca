@@ -1,0 +1,47 @@
+{
+  "slug": "commercial-mortgage",
+  "category": "construction-commercial",
+  "categoryLabel": "Construction & Commercial",
+  "title": "Commercial Mortgages in Greater Vancouver",
+  "shortTitle": "Commercial Mortgage",
+  "metaTitle": "Commercial Mortgage in BC — Multi-Family, Retail, Mixed-Use",
+  "metaDescription": "Commercial mortgages in Greater Vancouver for multi-family rentals, retail, mixed-use, office and industrial properties. DSCR-based qualifying and lender programs.",
+  "intro": "Commercial mortgages run on different math — Debt Service Coverage Ratio, not GDS/TDS. The property's cash flow does most of the qualifying; your personal income is supporting evidence.",
+  "body": [
+    {
+      "heading": "How commercial qualifying works",
+      "paragraphs": [
+        "The key metric is DSCR — Debt Service Coverage Ratio — calculated as (Net Operating Income) ÷ (Annual Debt Service). Most commercial lenders want a DSCR of 1.20 or higher, meaning the property's income covers 120% of mortgage payments. Strong files at well-located properties can push DSCR requirements down to 1.10; weaker properties need 1.30+.",
+        "Loan-to-value caps are lower than residential: 65–75% on most commercial property types. Multi-family rentals (5+ units) sit in a separate program category — CMHC and Sagen have insured multi-family programs allowing higher LTV (up to 85%) at preferential rates."
+      ]
+    },
+    {
+      "heading": "Property types and their nuances",
+      "paragraphs": [
+        "Multi-family (5+ units): the friendliest commercial category. CMHC insured programs offer 5- to 10-year terms at sub-residential rates. Retail and mixed-use: pricing depends on tenant mix, lease structure and location. Office: post-2020 risk premium remains; lenders favour single-tenant, long-lease properties. Industrial: very lender-friendly currently due to limited supply in Greater Vancouver.",
+        "Personal guarantees are typically required, even for corporate-held commercial mortgages. Sophisticated borrowers can negotiate limited or burn-off guarantees as their portfolio matures."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are buying a 5+ unit multi-family rental in Greater Vancouver",
+    "Are buying a mixed-use, retail, office or industrial property",
+    "Are refinancing a commercial property to release equity or improve terms"
+  ],
+  "faqs": [
+    {
+      "question": "What rates do commercial mortgages get?",
+      "answer": "Multi-family with CMHC insurance: often 0.5–1% below residential rates. Conventional commercial: 0.5–1.5% above residential. Specialty asset classes (hospitality, gas stations): higher again."
+    },
+    {
+      "question": "Do I need a corporation to hold commercial property?",
+      "answer": "Most commercial deals are corp-held for tax and liability reasons, but personal-held is possible. Talk to your accountant about the right structure for your specific portfolio and tax picture."
+    },
+    {
+      "question": "How long do commercial deals take?",
+      "answer": "Typically 60–120 days from accepted offer to funding, including appraisal, environmental, title and underwriting. Plan timelines accordingly."
+    }
+  ],
+  "related": ["investment-properties", "complex-mortgage-solutions", "construction-mortgage"],
+  "keywords": ["commercial mortgage BC", "multi family mortgage Canada", "Vancouver commercial real estate financing"]
+}

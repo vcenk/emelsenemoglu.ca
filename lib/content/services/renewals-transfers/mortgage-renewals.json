@@ -1,0 +1,53 @@
+{
+  "slug": "mortgage-renewals",
+  "category": "renewals-transfers",
+  "categoryLabel": "Renewals & Transfers",
+  "title": "Mortgage Renewals — Don't Auto-Sign the Letter",
+  "shortTitle": "Mortgage Renewals",
+  "metaTitle": "Mortgage Renewal in BC — Should You Renew or Switch?",
+  "metaDescription": "Your renewal letter is an opening offer, not a quote. Re-shop your mortgage at renewal in Greater Vancouver and across Canada — typically saves thousands over a 5-year term.",
+  "intro": "About 60% of Canadians sign whatever rate their lender mails them at renewal. That convenience costs the average Greater Vancouver mortgage holder $5,000–$25,000 over five years. Here's why — and what to do instead.",
+  "body": [
+    {
+      "heading": "Why your renewal letter is high",
+      "paragraphs": [
+        "Your existing lender knows three things: it costs them about $1,500–$2,000 to acquire a new client, you've already signed once before, and switching lenders feels like effort. So they price your renewal letter 15–60 basis points (0.15%–0.60%) above what they'll offer the same week to a brand-new client.",
+        "When a broker pushes back — even at the same lender — that gap usually closes by 15–30 bps. When the broker can credibly threaten to switch you to another lender, the gap often closes entirely or the rate drops below their public new-customer rate."
+      ]
+    },
+    {
+      "heading": "Switch costs are usually zero",
+      "paragraphs": [
+        "On a straight switch (same balance, same amortization, no equity take-out), most monoline lenders will pay your discharge fee, your legal fee, and your appraisal. Out-of-pocket cost to move: typically zero. The only thing that breaks this rule is if you want to extend amortization or pull cash out — that's a refinance, with refinance rules."
+      ]
+    },
+    {
+      "heading": "When to start",
+      "paragraphs": [
+        "Start 90–120 days before your maturity date. Most lenders hold a new rate for 90 days, so locking early protects against rate increases. If rates drop during your hold, most lenders will float you down to the lower rate."
+      ]
+    }
+  ],
+  "process": [
+    { "step": "120 days out", "detail": "We pull current market rates and compare against what your existing lender will offer." },
+    { "step": "90 days out", "detail": "Lock a rate hold with the best-fit lender — your current one if it's competitive, a switch if not." },
+    { "step": "60 days out", "detail": "Submit any switch paperwork; old lender receives the discharge instruction from the new one." },
+    { "step": "Maturity day", "detail": "New mortgage funds; old one closes; you keep the difference for the next five years." }
+  ],
+  "faqs": [
+    {
+      "question": "What if I'm not sure my rate is competitive?",
+      "answer": "Email me your renewal letter when it arrives. I'll send back a one-page comparison against current market rates within a day — no obligation."
+    },
+    {
+      "question": "Can I renegotiate without switching?",
+      "answer": "Often yes. About a third of my renewal clients stay with their current lender at a meaningfully better rate after a broker push-back. The threat of switching is the leverage."
+    },
+    {
+      "question": "Will switching mess up my pre-authorized payments?",
+      "answer": "No — but you'll need to set up new ones at the new lender. I walk every client through the timing so there's no missed payment during transition."
+    }
+  ],
+  "related": ["transfers-and-switches", "early-renewals", "renewing-your-mortgage"],
+  "keywords": ["mortgage renewal Canada", "renewal vs switch", "Greater Vancouver mortgage renewal", "mortgage renewal letter"]
+}

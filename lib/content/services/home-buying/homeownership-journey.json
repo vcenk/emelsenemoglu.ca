@@ -1,0 +1,58 @@
+{
+  "slug": "homeownership-journey",
+  "category": "home-buying",
+  "categoryLabel": "Home Buying",
+  "title": "Your Homeownership Journey — From Offer to Closing in BC",
+  "shortTitle": "Homeownership Journey",
+  "metaTitle": "Homeownership Journey — BC Buyer's Guide",
+  "metaDescription": "An end-to-end overview of buying a home in Greater Vancouver — from pre-qualification through subject removal, closing and your first renewal.",
+  "intro": "Most buyers Google individual steps as they hit them. Here's the whole journey on one page — what happens, when, and what your mortgage broker does at each stage.",
+  "body": [
+    {
+      "heading": "Stage 1: Plan (3–18 months before purchase)",
+      "paragraphs": [
+        "Start with a free pre-qualification to find your realistic price range. This is when down-payment plans get built — FHSA contributions, RRSP HBP positioning, paying down debts that hurt your TDS ratio, fixing credit reporting errors. Three months of focus here can shift your maximum mortgage by $50,000–$100,000."
+      ]
+    },
+    {
+      "heading": "Stage 2: Pre-approval (1–4 months before)",
+      "paragraphs": [
+        "Move to a fully underwritten pre-approval with a 90–120 day rate hold. Your realtor now has a real number to shop with, and you're protected against rate increases during the search."
+      ]
+    },
+    {
+      "heading": "Stage 3: Offer and subject removal (typically 5–10 days)",
+      "paragraphs": [
+        "Once you find the home, your offer goes in subject to financing, inspection, title review and (for stratas) document review. The financing subject period — typically 5–7 business days — is when I confirm the lender's appraisal of the specific property and remove the financing condition. In hot Greater Vancouver markets, some buyers go subject-free; this is only safe with airtight pre-approval and an appraisal-waived lender product."
+      ]
+    },
+    {
+      "heading": "Stage 4: Closing (typically 30–90 days after subject removal)",
+      "paragraphs": [
+        "I coordinate with your real-estate lawyer or notary, the lender's funding team, and the seller's lawyer through closing. You sign mortgage documents about a week before completion. On completion day, funds advance, title transfers, and you get keys."
+      ]
+    },
+    {
+      "heading": "Stage 5: First renewal (typically 5 years later)",
+      "paragraphs": [
+        "I keep your file on a renewal calendar. About 120 days before your term ends, we re-shop the market — you'll get a clear comparison of your lender's renewal offer vs. what other lenders are pricing. This single conversation typically saves clients $5,000–$25,000 over the next term."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long does the whole journey take?",
+      "answer": "From first call to closing day: anywhere from 4 weeks (motivated buyer with documents ready) to 18 months (early planner). The journey itself isn't the bottleneck — finding the right home usually is."
+    },
+    {
+      "question": "Do you stay involved after closing?",
+      "answer": "Yes. I track your renewal date, watch market conditions, and reach out 120 days before your term ends with a renewal-shopping plan. I'm also available between renewals if your situation changes (refinance, second property, equity take-out)."
+    },
+    {
+      "question": "What's the most common mistake at each stage?",
+      "answer": "Stage 1: not building credit early enough. Stage 2: skipping pre-approval and assuming a pre-qualification is enough. Stage 3: agreeing to subject-free offers without confirming appraisal. Stage 4: making big purchases or job changes between approval and closing. Stage 5: signing the renewal letter without negotiating."
+    }
+  ],
+  "related": ["pre-approval", "first-time-home-buyers", "buying-your-next-home"],
+  "keywords": ["BC home buying process", "Greater Vancouver homebuyer guide", "mortgage process BC"]
+}

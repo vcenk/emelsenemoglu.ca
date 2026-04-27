@@ -1,0 +1,43 @@
+{
+  "slug": "pre-sales",
+  "category": "other-programs",
+  "categoryLabel": "Other Programs",
+  "title": "Pre-Sale Financing & Assignments in BC",
+  "shortTitle": "Pre-Sales",
+  "metaTitle": "Pre-Sale Financing in BC — Vancouver, Burnaby, Surrey",
+  "metaDescription": "Pre-sale and assignment financing for Greater Vancouver condos and townhomes. Deposit financing, completion mortgages, and the assignment market.",
+  "intro": "Pre-sale and assignment buying are huge in Greater Vancouver — Burnaby, Surrey and Vancouver collectively launch dozens of new pre-sale projects per year. The financing rules are specific and worth understanding before you sign.",
+  "body": [
+    {
+      "heading": "Buying a pre-sale at launch",
+      "paragraphs": [
+        "Pre-sale deposits typically come in increments — 10% on signing, 5–10% over the next 12–24 months tied to milestones, totaling 15–25% by completion. These deposits are out-of-pocket cash; they don't form part of your eventual mortgage.",
+        "Your mortgage starts at completion, often 2–4 years after signing. You'll need to re-qualify at completion under whatever rules apply then. Two strategies help: (1) lock a rate hold with a long-extension lender as soon as you sign; (2) revisit the file 9–12 months before completion to confirm the lender match still works."
+      ]
+    },
+    {
+      "heading": "Buying a pre-sale assignment",
+      "paragraphs": [
+        "Assignment buying — taking over someone else's pre-sale contract — got more complex with federal anti-flipping rules and BC's Home Flipping Tax. The mortgage side: most lenders treat assignments as a regular new-build purchase, with the assignee paying full down payment from non-deposit sources. The deposits already paid by the assignor stay with the developer or transfer per the contract terms.",
+        "Tax: assignment fees can be subject to GST. The BC Home Flipping Tax (effective 2025) applies if the underlying property is sold within 2 years. Always work with a real-estate lawyer experienced with assignments before contracting."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are buying a pre-sale at launch or at assignment",
+    "Need to plan financing for a 2–4 year horizon",
+    "Want a clear deposit and completion strategy"
+  ],
+  "faqs": [
+    {
+      "question": "Can I finance the pre-sale deposits?",
+      "answer": "Most lenders won't finance the deposits themselves. A few private deposit-financing programs exist at high cost. Most clients fund deposits from savings, gifts, HELOC against an existing home, or short-term financing."
+    },
+    {
+      "question": "What if my income changes between signing and completion?",
+      "answer": "We re-qualify at completion. If your income has dropped, options include a co-signor, a different lender program, or in worst case forfeiting the deposits — review your contract carefully on this point before signing."
+    }
+  ],
+  "related": ["new-build-mortgages", "first-time-home-buyers", "investment-properties"],
+  "keywords": ["pre-sale financing BC", "Vancouver assignment mortgage", "Burnaby pre sale mortgage"]
+}

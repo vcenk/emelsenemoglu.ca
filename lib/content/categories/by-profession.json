@@ -1,0 +1,15 @@
+{
+  "slug": "by-profession",
+  "label": "Mortgage By Profession",
+  "title": "Profession-Specific Mortgages in Canada",
+  "metaTitle": "Self-Employed, Medical & Athlete Mortgages — BC Broker",
+  "metaDescription": "Specialized mortgage programs for self-employed, medical professionals, and sports professionals across Canada. Flexible income recognition and lender programs.",
+  "intro": "Some incomes don't fit a T4 box. There are dedicated programs — and dedicated lender desks — for people who earn differently.",
+  "body": "<p>Standard mortgage qualifying assumes you're a salaried employee with two recent paystubs and a stable T4 history. About a quarter of my clients aren't. They're founders running incorporated businesses, contractors invoicing through their own corps, physicians on residency contracts, surgeons earning T4A income from multiple hospitals, and professional athletes whose contracts span multiple jurisdictions.</p><p>Lenders have built specific programs for these income types — but most banks won't proactively tell you about them. The pages below outline the three biggest profession-specific programs I work with regularly.</p>",
+  "highlights": [
+    { "title": "Self-employed up to 90% LTV", "description": "Stated-income and BFS programs go up to 90% LTV with as little as 2 years of business history." },
+    { "title": "Physician programs", "description": "Several lenders waive student-debt counting and recognize 100% of contract income for residents and fellows." },
+    { "title": "Athlete income recognition", "description": "Specialty desks evaluate signing bonuses, multi-year contracts and offshore income for professional athletes." }
+  ],
+  "services": ["self-employed", "medical-professionals", "sports-professionals"]
+}

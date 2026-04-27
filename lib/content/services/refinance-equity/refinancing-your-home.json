@@ -1,0 +1,59 @@
+{
+  "slug": "refinancing-your-home",
+  "category": "refinance-equity",
+  "categoryLabel": "Refinance & Equity Access",
+  "title": "Refinancing Your Home in Greater Vancouver",
+  "shortTitle": "Refinancing Your Home",
+  "metaTitle": "Mortgage Refinance in Vancouver — When It Makes Sense",
+  "metaDescription": "Refinance your mortgage in Greater Vancouver to lower payments, take cash out or consolidate debt. Penalty math, break-even analysis, and full-cost comparison.",
+  "intro": "Refinancing replaces your existing mortgage with a new one — usually at a lower rate, with cash taken out, or both. Done right, it's the most powerful financial move a Greater Vancouver homeowner can make. Done casually, the costs eat the savings.",
+  "body": [
+    {
+      "heading": "Three reasons people refinance",
+      "paragraphs": [
+        "First: lower the rate. If rates have dropped meaningfully since you signed, refinancing into a new term can save thousands per year. Second: take out cash. Pull equity to fund a renovation, a second-property down payment, business capital, or to consolidate higher-interest debt. Third: extend amortization. Stretching from 20 to 30 years lowers monthly payments — useful if cash flow is tight, expensive in total interest paid."
+      ],
+      "bullets": [
+        "Rate-and-term refinance: lower the rate, keep balance the same",
+        "Cash-out refinance: increase the balance and put the difference in your pocket",
+        "Debt consolidation refinance: roll high-interest debt into the mortgage at sub-5% rates",
+        "Amortization extension: stretch the schedule to lower the payment"
+      ]
+    },
+    {
+      "heading": "What it costs",
+      "paragraphs": [
+        "If you're breaking your existing term: a prepayment penalty (3 months' interest or IRD, whichever is greater). Plus legal fees ($800–$1,800), an appraisal ($300–$500) and a discharge fee ($250–$400) — often partially or fully covered by the new lender. CMHC default insurance is not available on refinances, so loan-to-value caps at 80%.",
+        "Total upfront cost is usually $2,000–$15,000 depending on your old lender and balance. The refinance only makes sense when the savings clearly beat the costs and you'll stay in the mortgage past break-even — typically 18–30 months."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Have meaningful equity (typically 20%+) and want to access it",
+    "Have a current rate at least 0.75% higher than today's market",
+    "Want to consolidate higher-interest debt at a lower rate",
+    "Are buying a second property and need a down payment"
+  ],
+  "requirements": [
+    "Recent mortgage statement showing current balance and term",
+    "Standard income documents (paystubs, T4s, NOAs)",
+    "Property appraisal — usually arranged by new lender",
+    "Penalty quote from current lender (you request, I review)"
+  ],
+  "faqs": [
+    {
+      "question": "How much can I refinance?",
+      "answer": "Federally regulated lenders allow refinancing up to 80% loan-to-value. On a $1.5M home with $400k owing, you could in principle borrow up to $1.2M, pulling out $800k of equity (subject to qualifying on the new payment)."
+    },
+    {
+      "question": "Will I be re-stress-tested?",
+      "answer": "Yes — at the higher of contract rate plus 2% or the 5.25% federal floor. If your income or debts have changed since the original mortgage, this can affect your maximum new amount."
+    },
+    {
+      "question": "Is debt consolidation worth refinancing for?",
+      "answer": "Often dramatically. Replacing $40,000 of credit-card debt at 22% with mortgage debt at 4.99% saves about $570/month in interest alone. Run that against the penalty and refinance costs to confirm the move pays."
+    }
+  ],
+  "related": ["home-equity-line-of-credit", "purchase-plus-improvements", "equity-based-mortgages"],
+  "keywords": ["mortgage refinance Vancouver", "refinance BC", "cash out refinance Canada", "debt consolidation mortgage"]
+}

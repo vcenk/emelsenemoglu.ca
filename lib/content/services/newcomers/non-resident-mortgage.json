@@ -1,0 +1,47 @@
+{
+  "slug": "non-resident-mortgage",
+  "category": "newcomers",
+  "categoryLabel": "Newcomers & Non-Residents",
+  "title": "Non-Resident Mortgage in Canada",
+  "shortTitle": "Non-Resident Mortgage",
+  "metaTitle": "Non-Resident Mortgage Canada — Foreign Buyer Programs",
+  "metaDescription": "Non-resident mortgage programs in Canada for foreign buyers. Down-payment rules, qualifying income, BC's 20% Additional PTT and the foreign-buyer ban explained.",
+  "intro": "Non-resident mortgages are available — at higher down payments, with stricter documentation, and only on property types that aren't covered by the federal foreign-buyer ban.",
+  "body": [
+    {
+      "heading": "Down payment and rate",
+      "paragraphs": [
+        "Non-residents typically need 35% down payment minimum on residential purchases. A handful of lenders accept 25% with strong files. Rates are usually 0.50% to 1.50% above standard residential pricing depending on lender and file strength. Non-residents cannot use insured mortgages — only conventional/uninsured products."
+      ]
+    },
+    {
+      "heading": "Qualifying income",
+      "paragraphs": [
+        "Foreign income must be verifiable: foreign tax returns, employer letter on letterhead with verifiable contact details, and bank statements showing the income flowing in. Currency conversion is done at the lender's policy rate (often more conservative than spot). Self-employed foreign income faces extra scrutiny — typically a 3-year history is needed."
+      ]
+    },
+    {
+      "heading": "BC-specific tax layers",
+      "paragraphs": [
+        "BC's 20% Additional Property Transfer Tax applies to non-resident purchases in Metro Vancouver, the Fraser Valley, the Capital Regional District, Nanaimo and the Central Okanagan. The Speculation and Vacancy Tax applies annually if the property is vacant or owner is non-resident. The federal Underused Housing Tax (1% of value annually) applies to most non-resident-owned residential properties unless specific exemptions apply."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are not a Canadian citizen or permanent resident",
+    "Want to buy Canadian property exempt from the federal ban (e.g., recreational, certain regions)",
+    "Have verifiable foreign income and ability to pay 35% down"
+  ],
+  "faqs": [
+    {
+      "question": "Can I get a non-resident mortgage on a Vancouver condo?",
+      "answer": "Currently, the federal foreign-buyer ban prohibits most residential purchases in Vancouver by non-Canadians until at least January 2027. There are limited exceptions; speak with a Canadian real estate lawyer before contracting."
+    },
+    {
+      "question": "Is the 20% Additional PTT refundable?",
+      "answer": "If you become a Canadian permanent resident within 12 months of closing and the property is your principal residence, you may be eligible to apply for a refund. Specific conditions apply — confirm with your lawyer."
+    }
+  ],
+  "related": ["international-home-purchases", "new-to-canada", "investment-properties"],
+  "keywords": ["non resident mortgage Canada", "foreign buyer mortgage BC", "35% down non-resident"]
+}

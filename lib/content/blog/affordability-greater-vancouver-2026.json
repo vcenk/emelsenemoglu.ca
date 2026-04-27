@@ -1,0 +1,56 @@
+{
+  "slug": "affordability-greater-vancouver-2026",
+  "title": "How Much Mortgage Can I Afford in Greater Vancouver in 2026?",
+  "metaTitle": "How Much Mortgage Can I Afford in Vancouver 2026?",
+  "metaDescription": "How much mortgage can a $100K, $150K or $200K household income actually qualify for in Greater Vancouver in 2026? Real numbers, stress-tested.",
+  "excerpt": "Real numbers for $100K, $150K, $200K and $300K household incomes — stress-tested and Greater Vancouver-specific.",
+  "category": "Affordability",
+  "tags": ["how much mortgage can I afford Vancouver", "Greater Vancouver affordability", "stress-tested affordability"],
+  "publishedAt": "2026-02-04",
+  "readingMinutes": 7,
+  "body": [
+    {
+      "heading": "The four numbers that matter",
+      "paragraphs": [
+        "Affordability comes down to: Gross Debt Service (GDS) ratio, Total Debt Service (TDS) ratio, qualifying rate, and amortization length. The federal stress test sets your qualifying rate at the higher of contract rate plus 2% or the 5.25% floor. GDS is typically capped at 39%, TDS at 44%."
+      ]
+    },
+    {
+      "heading": "Real numbers for typical Greater Vancouver households",
+      "paragraphs": [
+        "These assume: $4,500/year property tax, $1,500/year heating, $0 condo fees (detached) or $400/month (condo), $400/month other debts, 20% down payment, 25-year amortization, 4.99% contract rate, stress-tested at 6.99%."
+      ],
+      "bullets": [
+        "$100,000 household income → ~$520,000 maximum mortgage → ~$650,000 maximum home (20% down)",
+        "$150,000 household income → ~$830,000 maximum mortgage → ~$1,040,000 maximum home (20% down)",
+        "$200,000 household income → ~$1,150,000 maximum mortgage → ~$1,440,000 maximum home (20% down)",
+        "$250,000 household income → ~$1,470,000 maximum mortgage → ~$1,840,000 maximum home (20% down)",
+        "$300,000 household income → ~$1,790,000 maximum mortgage → ~$2,240,000 maximum home (20% down)"
+      ]
+    },
+    {
+      "heading": "How to get more out of the same income",
+      "paragraphs": [
+        "Stretch amortization to 30 years (first-time buyers and new builds): adds roughly 8–12% to your maximum. Eliminate monthly debts: every $200/month of cleared debt adds $35K–$45K of buying power. Add a co-applicant: their income gets added directly. Increase down payment to avoid CMHC premium: doesn't change qualifying directly but lowers your insured premium. Buy a property with rental income (legal suite, duplex): some lenders offset 50–80% of rental income against the new mortgage payment."
+      ]
+    },
+    {
+      "heading": "What you should aim for vs. your maximum",
+      "paragraphs": [
+        "Buying at your absolute stress-tested maximum leaves no margin for: property tax increases, rate increases at renewal, lifestyle costs, kids, surprises. Most clients I work with target 80–90% of their stress-tested maximum. The math says you can afford the bigger house. Real life often disagrees."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why do my numbers come out lower than online calculators suggest?",
+      "answer": "Most online calculators don't apply the stress test. The numbers above are stress-tested at 6.99%, which is what federally regulated lenders actually use to qualify you."
+    },
+    {
+      "question": "Does household income include bonuses and overtime?",
+      "answer": "Bonuses and overtime are typically counted at 50% if you have 2+ years of consistent history. Without that history they're ignored. Talk to me before applying — there are workarounds for newer high-bonus situations."
+    }
+  ],
+  "relatedPosts": ["first-time-home-buyer-bc-2026", "stress-test-explained-2026"],
+  "relatedServices": ["pre-qualify", "pre-approval", "first-time-home-buyers"]
+}

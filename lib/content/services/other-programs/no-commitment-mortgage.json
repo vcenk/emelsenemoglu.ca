@@ -1,0 +1,36 @@
+{
+  "slug": "no-commitment-mortgage",
+  "category": "other-programs",
+  "categoryLabel": "Other Programs",
+  "title": "The No-Commitment (Open) Mortgage",
+  "shortTitle": "No-Commitment Mortgage",
+  "metaTitle": "Open Mortgage Canada — Penalty-Free Payoff",
+  "metaDescription": "Fully open mortgages let you pay off the balance any time without penalty. Useful for short hold periods, pending sales and bridge situations.",
+  "intro": "An open mortgage can be paid off at any time — in part or in full — without any prepayment penalty. The trade-off: a higher rate. Useful when you genuinely don't know your timeline, or you're holding the property for less than 12 months.",
+  "body": [
+    {
+      "heading": "When an open mortgage makes sense",
+      "paragraphs": [
+        "If you're going to sell within a year (downsizing, relocating, separation), the cost of a closed-mortgage early-payout penalty can vastly exceed the rate premium of an open product. Open mortgages typically run 1–2.5% above closed equivalent rates — significant on the carrying cost, but trivial compared to a $20,000+ IRD penalty.",
+        "Other use cases: pending estate sales, short-term holds during construction or renovation projects, properties you're going to refinance imminently for unrelated reasons, or any situation where flexibility is worth more than the rate."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Plan to sell or refinance the property within 12 months",
+    "Need maximum payment flexibility",
+    "Are in an estate, separation or transitional situation"
+  ],
+  "faqs": [
+    {
+      "question": "How much higher is the open rate?",
+      "answer": "Typically 1–2.5% above the equivalent closed term. On a $700,000 mortgage that's $7,000–$17,500 per year of extra interest — but if you're holding under a year, this can still be cheaper than a closed-mortgage IRD."
+    },
+    {
+      "question": "Can I switch from open to closed later?",
+      "answer": "Yes — open mortgages can be converted to closed terms at any time, at the prevailing closed rate, with no penalty. Many clients use an open product as a 'wait and see' before locking long-term."
+    }
+  ],
+  "related": ["bridge-financing", "early-renewals", "prepayment-penalties"],
+  "keywords": ["open mortgage Canada", "no commitment mortgage", "fully open mortgage BC"]
+}

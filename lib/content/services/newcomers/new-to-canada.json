@@ -1,0 +1,61 @@
+{
+  "slug": "new-to-canada",
+  "category": "newcomers",
+  "categoryLabel": "Newcomers & Non-Residents",
+  "title": "New to Canada Mortgage Programs",
+  "shortTitle": "New to Canada",
+  "metaTitle": "New to Canada Mortgage — Permanent Residents & Work Permits",
+  "metaDescription": "Mortgage programs for new permanent residents and work-permit holders in Canada. Greater Vancouver-focused, with foreign credit and overseas down-payment programs.",
+  "intro": "New to Canada — and ready to buy? CMHC, Sagen and Canada Guaranty all offer dedicated newcomer programs that accept foreign credit, work-permit income and overseas down-payment funds.",
+  "body": [
+    {
+      "heading": "Two timeline tiers",
+      "paragraphs": [
+        "Permanent residents in Canada for less than 5 years: full access to newcomer programs across all three insurers, with as little as 5% down on insured mortgages up to $1.5M. Foreign credit reports (Equifax international, Experian, country-specific bureaus) are accepted in lieu of a Canadian beacon score.",
+        "Work-permit holders: Sagen and Canada Guaranty accept work-permit income and offer up to 90% LTV (10% down) on owner-occupied purchases, subject to confirming 3+ months of remaining work-permit validity at funding. CMHC accepts work-permit income for up to 95% LTV on new permanent-residency applicants under specific conditions."
+      ]
+    },
+    {
+      "heading": "Down payment from outside Canada",
+      "paragraphs": [
+        "Newcomer programs allow down payment to come from outside Canada — but anti-money-laundering documentation is strict. You'll need to show the source of funds (bank statements from your home country for 90 days, plus the wire transfer trail to Canada). Funds from family overseas need a gift letter and the source of the family member's funds documented as well.",
+        "Plan for 30–60 days of advance preparation on this paperwork. The mortgage approval is straightforward; the AML documentation is where files commonly stall."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are a permanent resident in Canada less than 5 years",
+    "Are a work-permit holder with stable Canadian employment",
+    "Are bringing down-payment funds from outside Canada",
+    "Have limited or no Canadian credit history"
+  ],
+  "requirements": [
+    "Permanent resident card or work permit",
+    "Foreign credit report (we order this) or Canadian credit if you've been here long enough",
+    "3 months of bank statements showing down-payment source",
+    "Proof of employment income in Canada",
+    "Passport and Canadian SIN"
+  ],
+  "process": [
+    { "step": "Initial review", "detail": "We confirm your immigration status, income source and down-payment plan." },
+    { "step": "Foreign credit pull", "detail": "Equifax international or country-specific bureau if applicable; usually 5–10 business days." },
+    { "step": "Lender match", "detail": "I match your file to the newcomer program that fits your specific profile." },
+    { "step": "Pre-approval and offer", "detail": "Once underwritten, you have a real number to shop with." }
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a Canadian credit history?",
+      "answer": "Not always. Most newcomer programs accept a foreign credit report or 12 months of housing-payment history (rent, utilities) as a substitute. Building Canadian credit through a secured credit card alongside the application helps."
+    },
+    {
+      "question": "Can my Canadian co-signer help if I don't qualify alone?",
+      "answer": "Yes — co-signor structures are common for newcomers. The co-signor's income and credit are added to yours, often unlocking standard A-lender programs."
+    },
+    {
+      "question": "I'm here on a study permit — can I qualify?",
+      "answer": "Study permits don't typically qualify for residential mortgages on their own. Once you transition to a post-grad work permit (PGWP), you become eligible for newcomer programs."
+    }
+  ],
+  "related": ["newcomers-to-canada", "non-resident-mortgage", "international-home-purchases"],
+  "keywords": ["new to Canada mortgage", "newcomer mortgage Vancouver", "work permit mortgage BC", "permanent resident mortgage"]
+}

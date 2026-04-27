@@ -1,0 +1,68 @@
+{
+  "slug": "pre-approval",
+  "category": "home-buying",
+  "categoryLabel": "Home Buying",
+  "title": "Mortgage Pre-Approval in Greater Vancouver",
+  "shortTitle": "Pre-Approval",
+  "metaTitle": "Mortgage Pre-Approval — Vancouver, BC (Rate Hold)",
+  "metaDescription": "Get a fully underwritten mortgage pre-approval with a 90–120 day rate hold from a Greater Vancouver mortgage broker. Free, no obligation, no hard credit pull required.",
+  "intro": "A real pre-approval is the difference between hopefully shopping and confidently making offers. We'll lock in a rate, run your file through a real lender, and give you a number you can take to a realtor.",
+  "body": [
+    {
+      "heading": "Pre-qualification vs. pre-approval — they aren't the same",
+      "paragraphs": [
+        "A pre-qualification is a soft estimate based on what you tell me about your income, debts and down payment. No documents, no credit pull, no commitment from a lender. It's useful as a 15-minute starting point.",
+        "A pre-approval is a fully underwritten file. We collect your paystubs, T4s, NOAs, ID, and down-payment proof, run a credit pull, and submit to a specific lender for an actual rate hold — typically 90 to 120 days. When you find a home, we already have most of the underwriting done."
+      ]
+    },
+    {
+      "heading": "What a real pre-approval gets you",
+      "paragraphs": [
+        "Realtors take pre-approved buyers seriously. Sellers in multiple-offer scenarios across Greater Vancouver routinely pick the offer with a clean pre-approval over a stronger price with no financing certainty. The pre-approval letter is the document your realtor includes with the offer."
+      ],
+      "bullets": [
+        "A specific maximum mortgage and purchase price",
+        "A rate hold that protects you against increases for 90–120 days",
+        "A clear list of any conditions still outstanding",
+        "Confidence to make subject-free offers when warranted"
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Plan to shop for a home in the next 0–4 months",
+    "Want a real number, not a guess",
+    "Want a rate hold to protect against rate increases"
+  ],
+  "requirements": [
+    "Two recent paystubs (or 2 years of T4s / NOAs / financials if self-employed)",
+    "Government photo ID and SIN",
+    "90-day account history showing down payment funds",
+    "List of any current debts, loans or alimony/child support"
+  ],
+  "process": [
+    { "step": "20-minute discovery call", "detail": "We talk through your goals and confirm pre-approval is the right step." },
+    { "step": "Document collection", "detail": "Secure upload of everything we need — usually takes you 30 minutes." },
+    { "step": "Lender submission", "detail": "I submit to the right lender for your file and lock in the rate hold." },
+    { "step": "Your letter is ready", "detail": "Within 24–72 hours you have a pre-approval letter for your realtor." }
+  ],
+  "faqs": [
+    {
+      "question": "Does a pre-approval hurt my credit?",
+      "answer": "There's a single hard credit pull when we underwrite. Multiple mortgage credit pulls within a 30-day window are typically grouped as one inquiry by the credit bureaus, so the score impact is minimal — usually 3–8 points, recovering within a few months."
+    },
+    {
+      "question": "How long is a rate hold good for?",
+      "answer": "Most rate holds are 90 to 120 days. If you don't buy within the hold period, we re-submit and lock a new hold — there's no penalty for letting one expire."
+    },
+    {
+      "question": "Can I take a lower rate if it appears during my hold period?",
+      "answer": "Often yes — most lenders will float you down to a lower rate within their family of products if rates drop before your closing date. That's a question I always negotiate up front."
+    },
+    {
+      "question": "What if my situation changes during the hold?",
+      "answer": "Tell me immediately. A change in employment, debts or down payment can affect approval, and it's far easier to address proactively than at the closing finish line."
+    }
+  ],
+  "related": ["pre-qualify", "first-time-home-buyers", "buying-your-next-home"],
+  "keywords": ["mortgage pre-approval Vancouver", "pre-approved mortgage BC", "rate hold Vancouver", "Vancouver mortgage broker pre-approval"]
+}

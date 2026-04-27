@@ -1,0 +1,53 @@
+{
+  "slug": "pre-qualify",
+  "category": "home-buying",
+  "categoryLabel": "Home Buying",
+  "title": "Pre-Qualify in 15 Minutes — No Documents, No Credit Pull",
+  "shortTitle": "Pre-Qualify in Minutes",
+  "metaTitle": "Pre-Qualify for a Mortgage in 15 Minutes — Vancouver",
+  "metaDescription": "Soft mortgage pre-qualification in 15 minutes. No documents, no credit pull, no commitment. Find your realistic Greater Vancouver buying range before you apply.",
+  "intro": "Just want a quick sense of what's possible? A 15-minute conversation gives you a realistic price range — without any documents, credit pull, or pressure to apply.",
+  "body": [
+    {
+      "heading": "When pre-qualification is the right step",
+      "paragraphs": [
+        "If you're 6–18 months away from buying, the priority isn't a rate hold — it's understanding what you'd qualify for if you bought today, and what would change that number. A pre-qualification answers both, fast.",
+        "I ask you about your income, debts, down-payment savings, and credit picture. I run the federal stress test and give you a stress-tested maximum mortgage and home price. We talk through anything in your file that could push that number up — paying off a car loan, growing your down payment, fixing a credit reporting error."
+      ]
+    },
+    {
+      "heading": "What you walk away with",
+      "paragraphs": [
+        "After 15–20 minutes you'll have a range, not a precise number — and that's the point. The range gives you something realistic to plan around without burning a hard credit pull or committing to a lender."
+      ],
+      "bullets": [
+        "Realistic maximum home price for your situation today",
+        "What three improvements would push that number meaningfully higher",
+        "Plain-English summary of the federal stress test as it applies to you",
+        "A list of what you'd need to actually move to pre-approval"
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are 6–18 months from buying",
+    "Want a realistic number before talking to realtors",
+    "Want to plan improvements (debt paydown, credit, savings) before applying"
+  ],
+  "requirements": ["Just your time — 15–20 minutes by phone or video"],
+  "faqs": [
+    {
+      "question": "Is a pre-qualification binding?",
+      "answer": "No. It's a soft estimate, not a lender commitment. When you're ready to make offers, we'll convert it to a full pre-approval with documents and a rate hold."
+    },
+    {
+      "question": "Will it pull my credit?",
+      "answer": "No — pre-qualification is conversation-only. No credit pull, no inquiry on your bureau."
+    },
+    {
+      "question": "How accurate is it?",
+      "answer": "Within 5–10% of what you'd actually qualify for once we underwrite, assuming what you tell me about income and debts matches your documents."
+    }
+  ],
+  "related": ["pre-approval", "first-time-home-buyers", "homeownership-journey"],
+  "keywords": ["mortgage pre-qualification Vancouver", "quick mortgage check BC", "how much mortgage can I afford Vancouver"]
+}

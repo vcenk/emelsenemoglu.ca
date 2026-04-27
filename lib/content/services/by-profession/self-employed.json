@@ -1,0 +1,60 @@
+{
+  "slug": "self-employed",
+  "category": "by-profession",
+  "categoryLabel": "Mortgage By Profession",
+  "title": "Self-Employed Mortgages in Canada",
+  "shortTitle": "Self-Employed",
+  "metaTitle": "Self-Employed Mortgage Canada — BFS Programs in BC",
+  "metaDescription": "Self-employed and BFS (business-for-self) mortgage programs across Canada. Stated-income, gross-up, alt-A and standard programs explained for incorporated and sole-prop owners.",
+  "intro": "Self-employed Canadians are a quarter of the workforce but only a fraction of mortgage marketing. The right program — chosen against your specific structure — can mean the difference between a 5.99% rate and a 4.59% rate.",
+  "body": [
+    {
+      "heading": "Three ways lenders look at self-employed income",
+      "paragraphs": [
+        "Standard income recognition uses your line 150 income from your last two T1 General returns (or T2 corporate returns if incorporated). Most accountants legally optimize this number low; lenders see the optimized number and qualify you accordingly. Result: you under-qualify.",
+        "Gross-up programs add 15% back to your declared income to reflect the tax-optimization that legitimately understates your real cash flow. This is the most common BFS pathway at A-lenders. Stated-income programs (mostly at B-lenders and credit unions) let you state a reasonable income for your industry, supported by 6–12 months of bank statements showing the cash flow."
+      ],
+      "bullets": [
+        "Standard: line 150 from last 2 years of returns, no add-back",
+        "BFS gross-up: 15% added to declared income at most A-lenders",
+        "Stated-income: 6–12 months of bank statements, B-lender or credit union",
+        "Asset-based: significant non-RRSP investments can support qualification"
+      ]
+    },
+    {
+      "heading": "Which program suits you?",
+      "paragraphs": [
+        "Sole proprietor with 2+ years of stable T1 income: standard or BFS gross-up at an A-lender. Incorporated for 2+ years with active T2 retained earnings: BFS gross-up plus possible add-back of retained earnings — depending on the lender's appetite. Newly self-employed (under 2 years): typically B-lender or credit union with stated-income program. Heavy retained-earnings holder: equity-based program where the corporate balance sheet supports the file."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are an incorporated business owner",
+    "Are a sole proprietor with consistent self-employed income for 2+ years",
+    "Have a contract or freelance income with verifiable bank deposits",
+    "Have meaningful retained earnings or business assets"
+  ],
+  "requirements": [
+    "Last 2 years of T1 General returns (and T2 if incorporated)",
+    "Last 2 years of Notices of Assessment (NOAs)",
+    "Articles of incorporation and proof of active business (HST registration, business licence)",
+    "Last 6 months of business and personal bank statements",
+    "Profit-and-loss statement (year-to-date)"
+  ],
+  "faqs": [
+    {
+      "question": "How long do I need to be self-employed?",
+      "answer": "Most A-lender programs want a 2-year history. Some B-lenders and credit unions accept 1 year with strong bank statements. Brand-new businesses usually need to wait until they have a tax return."
+    },
+    {
+      "question": "I expense everything to lower my taxes — is this hurting my mortgage qualification?",
+      "answer": "Yes, somewhat. The fix isn't to stop expensing legitimate costs — it's to use a lender program (BFS gross-up, stated income) that understands the tax-optimization gap. Talk to me before changing how you report income to your accountant."
+    },
+    {
+      "question": "Can I use my corporation's retained earnings as down payment?",
+      "answer": "Yes — though the lender will want to see 90 days of seasoning in your personal account before closing, or an alternative source of qualified-funds verification. Plan ahead by 90+ days when pulling money from a corp."
+    }
+  ],
+  "related": ["equity-based-mortgages", "complex-mortgage-solutions", "medical-professionals"],
+  "keywords": ["self employed mortgage Canada", "BFS mortgage Vancouver", "stated income mortgage BC", "incorporated mortgage Canada"]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "chip-reverse-mortgage",
+  "category": "other-programs",
+  "categoryLabel": "Other Programs",
+  "title": "CHIP Reverse Mortgage — HomeEquity Bank for Ages 55+",
+  "shortTitle": "CHIP Reverse Mortgage",
+  "metaTitle": "CHIP Reverse Mortgage Canada — Tax-Free Equity for 55+",
+  "metaDescription": "CHIP Reverse Mortgage from HomeEquity Bank — tax-free home equity for Canadians age 55+. No monthly payments, no income or credit qualification.",
+  "intro": "The CHIP Reverse Mortgage from HomeEquity Bank lets Canadians 55 and older convert up to 55% of their home equity into tax-free cash — with no monthly payments and no income or credit qualifying.",
+  "body": [
+    {
+      "heading": "How CHIP works",
+      "paragraphs": [
+        "CHIP advances you a one-time lump sum, scheduled income payments, or a combination — all tax-free. Interest accrues but isn't paid monthly; instead, the loan is repaid in full when you sell the home, move out permanently, or as part of estate settlement.",
+        "Maximum advance is up to 55% of the appraised value, depending on age, location and property type. Older borrowers and properties in stronger markets (most of Greater Vancouver) qualify for higher advances. There's no income or credit qualifying — the property and your age do the qualifying."
+      ]
+    },
+    {
+      "heading": "When CHIP makes sense",
+      "paragraphs": [
+        "CHIP is ideal when: you want to stay in your home long-term, you need tax-free cash without disrupting investments, traditional financing isn't available because of fixed-income limitations, or you want to support adult children or grandchildren without selling the home. It's not ideal when: your timeline is short (selling within 2–3 years), you'd be eligible for a conventional product at a much lower rate, or your estate plans don't accommodate the eventual loan repayment."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are age 55 or older",
+    "Own a Greater Vancouver or other Canadian home with significant equity",
+    "Want tax-free cash without monthly payments",
+    "Plan to remain in the home long-term"
+  ],
+  "faqs": [
+    {
+      "question": "Will I lose ownership of my home?",
+      "answer": "No — you remain the registered owner. CHIP is a mortgage; the lender holds a charge against the property but does not own it."
+    },
+    {
+      "question": "What happens to my estate?",
+      "answer": "On sale or after death, the loan is repaid out of sale proceeds. Anything above the loan balance goes to you or your estate. HomeEquity Bank's no-negative-equity guarantee protects estates from owing more than the home is worth."
+    },
+    {
+      "question": "What's the rate?",
+      "answer": "Higher than conventional mortgages — typically 1.5–3% above standard residential rates. The trade-off is no monthly payments and no qualification."
+    }
+  ],
+  "related": ["reverse-mortgage", "refinancing-your-home", "home-equity-line-of-credit"],
+  "keywords": ["CHIP reverse mortgage Canada", "reverse mortgage Vancouver", "HomeEquity Bank BC"]
+}

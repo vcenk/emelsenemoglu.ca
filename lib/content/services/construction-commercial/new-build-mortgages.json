@@ -1,0 +1,46 @@
+{
+  "slug": "new-build-mortgages",
+  "category": "construction-commercial",
+  "categoryLabel": "Construction & Commercial",
+  "title": "New Build Mortgages — Pre-Sale & Completion Financing",
+  "shortTitle": "New Build Mortgages",
+  "metaTitle": "Pre-Sale Mortgage in BC — Vancouver, Burnaby, Surrey",
+  "metaDescription": "Mortgage financing for pre-sale condos and new builds in Greater Vancouver. Deposit structures, completion timelines, assignment financing and rate hold strategy.",
+  "intro": "Buying a Burnaby pre-sale today that completes in 2028? Your mortgage timeline starts the day you sign — not the day you move in.",
+  "body": [
+    {
+      "heading": "How pre-sale financing actually works",
+      "paragraphs": [
+        "When you sign a pre-sale contract you typically pay a series of deposits (10% upfront, then additional 5% increments tied to construction milestones, totaling 15–20% by completion). These deposits aren't a mortgage — they're cash from your pocket or a deposit financing program.",
+        "The mortgage doesn't start until the unit is built and you take possession. But qualification needs to happen long before then. Most lenders offer extended rate holds of 12 to 24 months specifically for pre-sales; some monolines extend to 36+ months. The further out the completion, the harder it is to lock today's rate — and your income, debts and credit can change between signing and completion, potentially affecting qualifying."
+      ]
+    },
+    {
+      "heading": "Assignment financing",
+      "paragraphs": [
+        "If you bought a pre-sale and want to assign (sell) it before completion, lenders treat assignment buyers slightly differently. The assignee usually needs full down payment from non-assigned-deposit sources, since the original deposits stayed with the assignor. Assignment closings are also subject to GST and federal anti-flipping rules — talk to your accountant before signing an assignment contract."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Have a pre-sale contract or are about to sign one",
+    "Are 6–24 months from completion",
+    "Are buying a pre-sale assignment"
+  ],
+  "faqs": [
+    {
+      "question": "When should I get pre-approved for my pre-sale?",
+      "answer": "Within 60 days of signing the pre-sale contract, and again 6–9 months before completion. Don't wait until completion notice arrives — by then, financing options narrow significantly."
+    },
+    {
+      "question": "What if my income drops during the construction period?",
+      "answer": "We'll need to re-qualify at completion. If your income has dropped, your maximum mortgage may be lower than expected. Plan for this — keep a cash buffer, consider a co-signor option, and contact me as soon as a major change happens."
+    },
+    {
+      "question": "Is the GST included in the price?",
+      "answer": "On new builds, GST applies. The new housing rebate may apply for owner-occupied purchases under $450k, with phase-outs above. Your real-estate lawyer confirms GST treatment at closing."
+    }
+  ],
+  "related": ["pre-sales", "construction-mortgage", "first-time-home-buyers"],
+  "keywords": ["pre-sale mortgage Vancouver", "new build mortgage BC", "Burnaby pre-sale financing", "Surrey new construction mortgage"]
+}

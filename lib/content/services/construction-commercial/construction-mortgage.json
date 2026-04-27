@@ -1,0 +1,53 @@
+{
+  "slug": "construction-mortgage",
+  "category": "construction-commercial",
+  "categoryLabel": "Construction & Commercial",
+  "title": "Construction Mortgages — Self-Build & Custom Home Financing",
+  "shortTitle": "Construction Mortgage",
+  "metaTitle": "Construction Mortgage in BC — Custom Home Financing",
+  "metaDescription": "Construction mortgage financing in Greater Vancouver for self-builds, custom homes and major teardown-and-rebuilds. Draw schedules, completion mortgages and rates explained.",
+  "intro": "Building a custom home — or doing a major teardown-and-rebuild — runs on a different mortgage product. Funds advance in draws as work progresses, and the file converts to a permanent mortgage at completion.",
+  "body": [
+    {
+      "heading": "How a draw mortgage works",
+      "paragraphs": [
+        "A construction or 'draw' mortgage advances funds in stages tied to specific milestones — typically: foundation complete (20–25% of loan), framing/lockup (30–40%), interior finish (60–70%), and occupancy (final draw). Each draw is preceded by an inspection or appraisal confirming the work is done.",
+        "Interest accrues on advanced funds only — so early in the build your interest cost is small. By completion, you're paying interest on the full balance. Most construction mortgages are interest-only during the build phase and convert to principal-and-interest at occupancy."
+      ]
+    },
+    {
+      "heading": "Cost and qualifying",
+      "paragraphs": [
+        "Construction mortgages are typically 0.5–1.5% above standard residential rates because of the higher risk during the build. Down payment requirements are usually 20–30% of the projected as-completed value. You qualify based on your post-completion mortgage payment, not the construction-phase interest-only payment.",
+        "Documentation includes: full architectural plans, building permit, fixed-price construction contract from a licensed builder (or detailed budget for owner-builders), and a cost-to-complete projection from a qualified appraiser."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are building a custom home in Greater Vancouver",
+    "Are doing a major teardown-and-rebuild",
+    "Have a fixed-price contract with a licensed builder (or own-build experience)"
+  ],
+  "requirements": [
+    "Architectural plans and city building permit",
+    "Fixed-price contract or detailed budget",
+    "Land already owned (or being purchased simultaneously)",
+    "Standard income and credit documentation"
+  ],
+  "faqs": [
+    {
+      "question": "Can I build it myself?",
+      "answer": "Owner-builder construction mortgages exist but are tougher to qualify for and require more documentation — detailed itemized budgets, contractor breakdowns for any sub-trades, and proof of construction experience. Some lenders won't fund owner-builds at all."
+    },
+    {
+      "question": "How long can construction take?",
+      "answer": "Most lenders give a 12-month build window; some go to 18–24 months. Going past the window without a meaningful reason can trigger penalty rate or default."
+    },
+    {
+      "question": "What if costs go over budget?",
+      "answer": "You're responsible for cost overruns. The lender funds against the original committed budget; overages come from your pocket or a separate financing arrangement. Build a 10–15% contingency into your initial budget."
+    }
+  ],
+  "related": ["new-build-mortgages", "purchase-plus-improvements", "commercial-mortgage"],
+  "keywords": ["construction mortgage BC", "self build mortgage Canada", "custom home financing Vancouver"]
+}

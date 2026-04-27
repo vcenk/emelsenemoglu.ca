@@ -1,0 +1,43 @@
+{
+  "slug": "vacation-secondary-homes",
+  "category": "investment-vacation",
+  "categoryLabel": "Investment & Vacation",
+  "title": "Vacation & Secondary Home Mortgages in BC",
+  "shortTitle": "Vacation & Secondary Homes",
+  "metaTitle": "Vacation Home Mortgage BC — Whistler, Sunshine Coast, Okanagan",
+  "metaDescription": "Mortgage programs for vacation and secondary homes in Whistler, the Sunshine Coast, the Okanagan and across BC. Type A vs Type B properties explained.",
+  "intro": "A second home in Whistler, the Sunshine Coast or the Okanagan — for family use, not rental — has its own mortgage rules. The big variable is whether the property is 'Type A' or 'Type B' under insurer guidelines.",
+  "body": [
+    {
+      "heading": "Type A vs Type B",
+      "paragraphs": [
+        "Type A vacation properties are foundation-built, year-round residential properties with full kitchen and bathroom, on year-round road access, with year-round potable water and central heating. They qualify for insured mortgages up to 95% LTV (5% down) on owner-occupied secondary homes.",
+        "Type B properties are season-only or off-grid: woodstove heat, summer-only road access, lake-source water, no foundation. They typically require 25% down conventionally and don't qualify for insured high-ratio financing. Rates may also be slightly higher because the resale market is thinner."
+      ]
+    },
+    {
+      "heading": "Whistler, Sunshine Coast, Okanagan — practical notes",
+      "paragraphs": [
+        "Whistler condos and townhomes (Whistler Village, Creekside, Blackcomb): mostly Type A; 5–10% down is feasible on owner-occupied secondary purchases. Pemberton and Squamish: mostly Type A. Sunshine Coast (Gibsons, Sechelt, Roberts Creek): mixed; many properties are Type A but some hillside and waterfront homes are Type B. Okanagan (Kelowna, Penticton, Vernon, Osoyoos): mostly Type A in town; Type B in remote lake-shore properties.",
+        "If you plan to short-term rent the property (Airbnb / VRBO), the mortgage program changes — most insurers require strict owner-use and don't allow significant short-term rental. Confirm strata bylaws and municipal regulations before counting on rental income."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Want a family vacation home in Whistler, the Okanagan, the Sunshine Coast or similar",
+    "Plan to use the property primarily yourself, not as an Airbnb",
+    "Have stable income to support carrying two properties"
+  ],
+  "faqs": [
+    {
+      "question": "Can I rent the cabin out when I'm not there?",
+      "answer": "Limited owner-friend-and-family use is typically fine. Active short-term rental income changes the mortgage classification — most insured products don't permit it. If short-term rental is the plan, we structure it as a rental property from day one."
+    },
+    {
+      "question": "Does my main home being mortgaged affect this?",
+      "answer": "Yes — your existing mortgage payment, property tax and heating are part of your TDS calculation. We model the combined picture before applying."
+    }
+  ],
+  "related": ["second-property", "investment-properties", "second-and-third-mortgages"],
+  "keywords": ["Whistler mortgage", "vacation home mortgage BC", "second home BC", "Okanagan vacation property mortgage"]
+}

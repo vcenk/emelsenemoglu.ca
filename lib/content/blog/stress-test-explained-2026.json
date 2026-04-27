@@ -1,0 +1,53 @@
+{
+  "slug": "stress-test-explained-2026",
+  "title": "The Mortgage Stress Test in 2026: What It Means for BC Buyers",
+  "metaTitle": "Mortgage Stress Test 2026 — How It Works & Affects You",
+  "metaDescription": "Plain-English guide to the Canadian mortgage stress test in 2026. The 5.25% qualifying floor, contract rate plus 2%, and how to plan around it.",
+  "excerpt": "The stress test is the rule that decides how much mortgage you can actually qualify for. Here's how it works in 2026 — and how to plan around it.",
+  "category": "Qualification",
+  "tags": ["mortgage stress test 2026", "OSFI qualifying rate", "Canadian mortgage rules"],
+  "publishedAt": "2026-04-01",
+  "readingMinutes": 7,
+  "body": [
+    {
+      "heading": "What the stress test is",
+      "paragraphs": [
+        "The federal mortgage stress test (formally OSFI Guideline B-20) requires federally regulated lenders — the big six banks, all monolines, and most credit unions on federally registered mortgages — to qualify your application at the higher of your contract rate plus 2% or the 5.25% qualifying-rate floor.",
+        "If your contract rate is 4.99%, you'll be qualified at 6.99%. If your contract rate is 3.50%, you'll be qualified at 5.50% (because contract + 2% = 5.50%, but the floor is also 5.25%, so the higher one wins). The stress-tested rate doesn't affect your actual payment — only what you're allowed to borrow."
+      ]
+    },
+    {
+      "heading": "Why it exists",
+      "paragraphs": [
+        "Introduced in 2018 (and tightened in 2021), the stress test is intended to ensure borrowers can still afford their payments if rates rise meaningfully during their term. The 2022–2024 rate cycle vindicated the rule — homeowners who renewed at 5.5%+ in 2024 were qualified at 5.25% when they signed in 2019, so the math held."
+      ]
+    },
+    {
+      "heading": "How to plan around it",
+      "bullets": [
+        "Pay down monthly debts before applying. Every $200/month of credit-card or loan payment cuts your maximum mortgage by roughly $35,000–$45,000.",
+        "Use a 30-year amortization if you're a first-time buyer — lowers your stress-tested payment, raises your qualifying maximum.",
+        "Add a co-applicant or guarantor if your income alone doesn't carry the qualifying payment.",
+        "Choose the right lender. Provincially regulated credit unions can sometimes qualify on the contract rate alone — meaningful difference in tight applications."
+      ]
+    },
+    {
+      "heading": "Will the stress test change?",
+      "paragraphs": [
+        "Periodic political pressure to relax it never quite materializes into actual changes. Plan for the current rules. If they loosen, you'll qualify for more — but don't structure a purchase around hope of a regulatory change."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does the stress test apply to private lenders?",
+      "answer": "No — private lenders aren't federally regulated. They can qualify on the contract rate alone. But their rates are much higher, so the trade-off is rarely worth it long-term."
+    },
+    {
+      "question": "Does the stress test apply at renewal if I stay with the same lender?",
+      "answer": "No — straight renewals at the same lender don't trigger re-stress-testing. Switching to a new lender does. This is one reason renewal letters can offer slightly worse rates and still 'win' against switching for borrowers whose income has dropped."
+    }
+  ],
+  "relatedPosts": ["fixed-vs-variable-2026", "first-time-home-buyer-bc-2026"],
+  "relatedServices": ["pre-approval", "first-time-home-buyers", "mortgage-renewals"]
+}

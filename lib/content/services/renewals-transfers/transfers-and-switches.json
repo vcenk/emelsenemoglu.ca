@@ -1,0 +1,41 @@
+{
+  "slug": "transfers-and-switches",
+  "category": "renewals-transfers",
+  "categoryLabel": "Renewals & Transfers",
+  "title": "Mortgage Transfers & Switches — Move Lenders at No Cost",
+  "shortTitle": "Transfers & Switches",
+  "metaTitle": "Mortgage Transfer / Switch in Canada — $0 to Move",
+  "metaDescription": "Switch your mortgage to a new lender at maturity with no out-of-pocket cost. Same balance, same amortization, better rate. How transfers work in Canada.",
+  "intro": "A transfer (or 'switch') moves your existing mortgage to a new lender at maturity, with the same balance and amortization. On a straight switch, the new lender almost always covers your costs — making this the cheapest moment to lower your rate.",
+  "body": [
+    {
+      "heading": "Transfer vs. refinance — the critical difference",
+      "paragraphs": [
+        "A transfer is balance-and-amortization-preserving. The new lender takes over what's left, at a new rate, and you continue. A refinance is anything that changes the structure: increasing the balance, extending amortization, taking out cash, or consolidating debt. Refinances are subject to insured-mortgage rules and re-qualifying; transfers are typically much simpler.",
+        "Because transfers are simpler, lenders compete hard for them — they want to acquire customers who are already vetted and paying. That's why most monoline lenders offer 'switch programs' that cover discharge fees, legal fees and appraisal."
+      ]
+    },
+    {
+      "heading": "What you'll need",
+      "paragraphs": [
+        "Transfers are streamlined. The new lender re-confirms your income (paystubs and NOAs), pulls fresh credit, and underwrites at current qualifying rates. If your situation has materially worsened (job loss, missed payments, large new debts), the transfer can fail — but for most clients it's a smooth process with funding lined up to your maturity day."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Are there any out-of-pocket costs?",
+      "answer": "On a straight switch, almost never. The new lender covers discharge ($350–$400), legal ($800–$1,200) and appraisal ($300–$500) in their switch program. Some specialty product transfers may carry a small admin fee — I disclose this upfront in any quote."
+    },
+    {
+      "question": "How long does a transfer take?",
+      "answer": "Three to five weeks from application to funding. Your new lender will issue funding instructions to your old lender about a week before maturity, and the transfer happens automatically on maturity day."
+    },
+    {
+      "question": "Can I switch a HELOC or collateral charge mortgage?",
+      "answer": "Collateral charge mortgages (common at TD, RBC, NA) are technically a refinance to switch — meaning legal fees apply. Some lenders will still cover them; others won't. I check this before assuming the switch is free."
+    }
+  ],
+  "related": ["mortgage-renewals", "early-renewals", "refinancing-your-home"],
+  "keywords": ["mortgage transfer Canada", "switch mortgage lender BC", "free mortgage switch"]
+}

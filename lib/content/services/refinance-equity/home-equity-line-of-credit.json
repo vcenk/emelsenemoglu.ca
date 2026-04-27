@@ -1,0 +1,47 @@
+{
+  "slug": "home-equity-line-of-credit",
+  "category": "refinance-equity",
+  "categoryLabel": "Refinance & Equity Access",
+  "title": "Home Equity Line of Credit (HELOC) in Greater Vancouver",
+  "shortTitle": "HELOC",
+  "metaTitle": "HELOC in Greater Vancouver — Up to 65% LTV Standalone",
+  "metaDescription": "Home Equity Line of Credit in Greater Vancouver. Up to 65% LTV standalone, 80% combined with mortgage. Variable rate, interest-only payments, revolving access.",
+  "intro": "A HELOC is a revolving credit line secured against your home's equity. Lower rate than unsecured credit, flexible access, interest-only payments — when used well, it's the most flexible financial tool a homeowner has.",
+  "body": [
+    {
+      "heading": "How a HELOC works",
+      "paragraphs": [
+        "Your HELOC is registered against your property like a mortgage, but it works like a credit card: you can borrow up to a credit limit, repay any time without penalty, and re-borrow as needed. The minimum payment is typically interest-only, calculated at prime + a margin (usually prime + 0.5% to prime + 1%).",
+        "Standalone HELOCs (where you have no first mortgage) cap at 65% loan-to-value. Combined HELOC + mortgage products cap at 80% LTV — up to 65% can be the HELOC portion. As you pay down the mortgage, room expands automatically into the HELOC."
+      ]
+    },
+    {
+      "heading": "Smart and not-so-smart uses",
+      "paragraphs": [
+        "Smart: emergency reserve, renovation funding, opportunistic investment property purchases, smoothing self-employed income, bridge financing, debt consolidation when refinancing isn't worth the penalty. Not so smart: vacations, lifestyle creep, anything that won't appreciate or generate income to repay it."
+      ],
+      "bullets": [
+        "Variable rate at prime + 0.5% to prime + 1.0% (much cheaper than unsecured credit)",
+        "Interest-only minimum payment (you can always pay more)",
+        "Re-borrow up to your limit any time — like a credit card",
+        "Tax-deductible interest if used for investment purposes"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What's the difference between a HELOC and a mortgage?",
+      "answer": "A mortgage is a fixed-amount loan with scheduled principal-and-interest payments. A HELOC is a revolving credit line — borrow, repay, re-borrow at will, with interest-only minimum payments. Most clients benefit from having both: a mortgage for the bulk of the financing, a HELOC for flexibility."
+    },
+    {
+      "question": "Will a HELOC affect my credit score?",
+      "answer": "Yes — a HELOC application includes a hard credit pull. Once open, utilization affects your score (high utilization hurts; low utilization helps). Most lenders report HELOC balances and limits to credit bureaus."
+    },
+    {
+      "question": "Can I get a HELOC if I'm self-employed?",
+      "answer": "Yes — but stated-income or BFS HELOC programs are narrower than mortgage programs. Prepare for a 2-year financial history at minimum. Some lenders offer equity-based HELOCs that look more at the property than the income."
+    }
+  ],
+  "related": ["refinancing-your-home", "equity-based-mortgages", "second-and-third-mortgages"],
+  "keywords": ["HELOC Vancouver", "home equity line of credit BC", "Vancouver HELOC rates"]
+}

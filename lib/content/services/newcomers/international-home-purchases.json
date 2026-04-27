@@ -1,0 +1,46 @@
+{
+  "slug": "international-home-purchases",
+  "category": "newcomers",
+  "categoryLabel": "Newcomers & Non-Residents",
+  "title": "International Home Purchases — Buying Canadian Real Estate from Abroad",
+  "shortTitle": "International Home Purchases",
+  "metaTitle": "Buy Canadian Property from Abroad — Non-Resident Mortgages",
+  "metaDescription": "Buying Canadian property while living abroad. Non-resident mortgage rules, foreign-buyer ban implications, and the path to financing a Greater Vancouver home from overseas.",
+  "intro": "Buying Canadian real estate while living abroad — for future immigration, family, or investment — is possible but layered. The federal Prohibition on the Purchase of Residential Property by Non-Canadians Act limits some purchases through 2027.",
+  "body": [
+    {
+      "heading": "What's allowed and what isn't (2026)",
+      "paragraphs": [
+        "The federal foreign-buyer ban currently prohibits non-Canadians from purchasing residential property in most cities, with exceptions for refugees, international students meeting specific criteria, work-permit holders, and certain temporary residents. The ban is currently extended through January 2027.",
+        "Even when the federal ban applies, exceptions cover: properties outside Census Metropolitan Areas (CMAs) and Census Agglomerations (CAs); recreational properties; multi-unit residential properties with 4+ dwelling units; and a number of other specific cases. Vacant land is treated separately. Always confirm with a Canadian real estate lawyer before contracting."
+      ]
+    },
+    {
+      "heading": "If you qualify, what financing looks like",
+      "paragraphs": [
+        "Non-resident mortgages typically require 35% down payment, are priced 0.5–1.5% above standard residential rates, and require down-payment funds to be in a Canadian bank for 30 days before closing. BC's 20% Additional PTT applies to non-resident purchases in Metro Vancouver. Documentation requirements are heavier — passports, foreign tax returns, source-of-funds letters from a Canadian or correspondent bank."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are planning to immigrate to Canada and want to buy ahead",
+    "Have family in Canada and want to provide housing",
+    "Are an institutional or corporate buyer (specific exceptions to the ban)"
+  ],
+  "faqs": [
+    {
+      "question": "Can I buy a vacation property in Whistler from abroad?",
+      "answer": "Whistler is exempt from the federal foreign-buyer ban as it's not within a CMA or CA. Recreational properties in such areas are generally available to non-Canadian buyers, subject to provincial PTT rules and standard non-resident mortgage qualifying."
+    },
+    {
+      "question": "What about properties on the Sunshine Coast or Vancouver Island?",
+      "answer": "Most of the Sunshine Coast and the smaller Vancouver Island communities are outside CMAs and CAs and therefore exempt from the foreign-buyer ban. Greater Victoria and Greater Nanaimo are within CMAs and are subject to the ban."
+    },
+    {
+      "question": "Will the ban end in 2027?",
+      "answer": "The current legislation expires in January 2027. Whether it's extended, modified or replaced is a political decision. Plan for current rules and stay flexible."
+    }
+  ],
+  "related": ["non-resident-mortgage", "new-to-canada", "vacation-secondary-homes"],
+  "keywords": ["non resident Canadian mortgage", "buy Canadian property from abroad", "foreign buyer Canada"]
+}

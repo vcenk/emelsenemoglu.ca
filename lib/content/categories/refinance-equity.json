@@ -1,0 +1,35 @@
+{
+  "slug": "refinance-equity",
+  "label": "Refinance & Equity Access",
+  "title": "Refinance & Home Equity Access in BC",
+  "metaTitle": "Refinance & HELOC — Vancouver Mortgage Broker",
+  "metaDescription": "Refinance your mortgage or unlock home equity in Greater Vancouver. HELOCs, equity-based mortgages, purchase-plus-improvements and bridge financing — full strategy review.",
+  "intro": "Your home is likely your most powerful financial tool. Used carelessly, it's expensive. Used strategically, it can pay down debt, fund renovations, finance an investment property or bridge a purchase.",
+  "body": "<p>Greater Vancouver homeowners hold a remarkable amount of equity — the median detached home value across the Lower Mainland sits well over $1.5M, and most owners have lived through a decade of price appreciation. Refinancing or accessing that equity isn't always the right call, but when it is, the savings are real.</p><p>The five pages below cover the full toolkit: a straight rate-and-term refinance to lower your payment, a HELOC for revolving access, a purchase-plus-improvements mortgage for renovations rolled into the purchase, an equity-based mortgage for income-light files, and bridge financing for the awkward week between selling and buying.</p>",
+  "highlights": [
+    { "title": "Up to 80% LTV on refinance", "description": "Borrow against up to 80% of your home's value on a refinance — the federal cap." },
+    { "title": "Up to 65% LTV on HELOC alone", "description": "Standalone HELOCs are capped at 65% of value; combined mortgage + HELOC products can go to 80%." },
+    { "title": "Real cost analysis", "description": "I'll model the prepayment penalty, legal fees and break-even point so you know whether the move pays off." }
+  ],
+  "services": [
+    "refinancing-your-home",
+    "home-equity-line-of-credit",
+    "purchase-plus-improvements",
+    "equity-based-mortgages",
+    "bridge-financing"
+  ],
+  "faqs": [
+    {
+      "question": "How much can I refinance?",
+      "answer": "Federally regulated lenders allow refinancing up to 80% loan-to-value (LTV). On a $1.5M home with $400k owing, you could in principle refinance up to $1.2M — pulling out $800k of equity, subject to qualifying on the new payment."
+    },
+    {
+      "question": "Refinance or HELOC?",
+      "answer": "Refinance if you want a one-time chunk at a fixed lower rate. HELOC if you want flexible, revolving access at a variable rate. Many clients use both: refinance the mortgage and add a HELOC behind it."
+    },
+    {
+      "question": "How long does a refinance take?",
+      "answer": "Two to four weeks from application to funding, assuming an appraisal slot is available and your documents are clean. Discharge from the old lender adds another few business days."
+    }
+  ]
+}

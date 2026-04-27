@@ -1,0 +1,53 @@
+{
+  "slug": "investment-properties",
+  "category": "investment-vacation",
+  "categoryLabel": "Investment & Vacation",
+  "title": "Investment Property Mortgages in Greater Vancouver",
+  "shortTitle": "Investment Properties",
+  "metaTitle": "Investment Property Mortgage in BC — Up to 80% LTV",
+  "metaDescription": "Mortgages for rental and investment properties in Greater Vancouver and across BC. Up to 80% LTV, rental income offsets, and structures for portfolio investors.",
+  "intro": "Buying a rental in Greater Vancouver is one of the most common 'next moves' my clients make. The federal cap is 80% LTV (20% down minimum), and lender programs vary widely on how they treat rental income.",
+  "body": [
+    {
+      "heading": "Down payment and qualifying",
+      "paragraphs": [
+        "Federally regulated lenders cap rental property mortgages at 80% loan-to-value — meaning at least 20% down. Some lenders push this to 75% on properties they consider higher-risk (small bachelor units, properties in less liquid markets). Credit unions occasionally offer 85% LTV on rentals through specific programs.",
+        "On qualifying, the big variable is rental income offset. The strongest lenders offset 50% of rental income against the new mortgage payment (i.e., subtract from your debt-service ratio rather than add to your income). Some 'rental add-back' lenders treat rental income as additional income — much more generous, often the difference between qualifying and not."
+      ]
+    },
+    {
+      "heading": "Structuring a portfolio",
+      "paragraphs": [
+        "Most A-lenders cap individual borrowers at 4–5 rental properties. Beyond that, you'll need to move to specialty lenders, potentially personal-guaranteed corporate-held structures, or commercial rental programs. Cross-collateralizing (using one property's equity to secure another mortgage) is occasionally useful but reduces flexibility — discuss before doing.",
+        "Tax treatment: rental income is taxable, mortgage interest is deductible against it. Consult an accountant — rental property structuring is one of the few areas where accountant-broker collaboration genuinely matters."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are buying your first rental and want it structured well",
+    "Already own 1–4 rentals and are planning your next",
+    "Want to graduate to corporate-held or commercial structures"
+  ],
+  "requirements": [
+    "20% down payment minimum (preferably from non-rental savings)",
+    "Standard income, credit and ID documentation",
+    "Lease or proposed rental income for the new property",
+    "Schedule of any existing rental properties (T776 statements)"
+  ],
+  "faqs": [
+    {
+      "question": "Can I use rental income to qualify?",
+      "answer": "Yes — but how the lender treats rental income varies enormously. Some offset 50%, some add 50–80% to your income, some ignore it. The right lender match can mean qualifying for a $1.2M rental vs. an $800K rental on the same income."
+    },
+    {
+      "question": "Do I need a real estate corporation?",
+      "answer": "Not for the first 1–3 rentals. Beyond that, corporate ownership starts to make tax and liability sense — though it complicates mortgage qualification and pricing. Talk to your accountant first."
+    },
+    {
+      "question": "What's the minimum credit score?",
+      "answer": "A-lender rental programs typically want 680+. Credit unions and B-lenders go to 600. Below that, equity-based or private lender rental financing is possible at higher rates."
+    }
+  ],
+  "related": ["vacation-secondary-homes", "second-and-third-mortgages", "commercial-mortgage"],
+  "keywords": ["investment property mortgage BC", "rental property Vancouver", "buy rental property Canada"]
+}

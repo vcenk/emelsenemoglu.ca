@@ -1,0 +1,32 @@
+{
+  "slug": "leasing",
+  "category": "other-programs",
+  "categoryLabel": "Other Programs",
+  "title": "Equipment, Vehicle & Commercial Leasing",
+  "shortTitle": "Leasing",
+  "metaTitle": "Leasing Solutions in BC — Equipment, Vehicle & Commercial",
+  "metaDescription": "Leasing solutions for equipment, vehicles and commercial assets across BC. Through Dominion Lending Centres National's leasing partners.",
+  "intro": "Through Dominion Lending Centres National's leasing partners, I can refer you to leasing solutions for vehicles, equipment and commercial assets — useful for self-employed clients and small businesses.",
+  "body": [
+    {
+      "heading": "When leasing beats buying",
+      "paragraphs": [
+        "Leasing typically makes sense when: you want predictable monthly costs without large up-front capital outlay; you'll replace the asset on a fixed cycle (3–5 years for vehicles, 5–7 for equipment); the asset depreciates faster than you can sell it efficiently; or you want to preserve cash for higher-return uses elsewhere.",
+        "Leasing is generally not optimal for assets you'll keep long-term, where ownership equity accumulates value, or where you have ample cash and a low cost of capital."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are self-employed or run a small business",
+    "Need vehicles, equipment or commercial assets",
+    "Want to preserve cash for other uses"
+  ],
+  "faqs": [
+    {
+      "question": "Does leasing affect my mortgage qualification?",
+      "answer": "Yes — lease payments count as monthly debt obligations in your TDS calculation, the same way a loan payment would. Plan for this in your mortgage timeline."
+    }
+  ],
+  "related": ["self-employed", "complex-mortgage-solutions"],
+  "keywords": ["equipment leasing BC", "vehicle leasing Canada", "commercial leasing Vancouver"]
+}

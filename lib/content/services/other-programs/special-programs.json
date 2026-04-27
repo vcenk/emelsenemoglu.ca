@@ -1,0 +1,43 @@
+{
+  "slug": "special-programs",
+  "category": "other-programs",
+  "categoryLabel": "Other Programs",
+  "title": "Special Mortgage Programs",
+  "shortTitle": "Special Programs",
+  "metaTitle": "Special Mortgage Programs Canada — Family Gift, Co-Signor, Niche",
+  "metaDescription": "Specialty mortgage programs for unique situations: family-gifted down payments, co-signor and guarantor structures, lender-specific niche products in BC.",
+  "intro": "Some files don't fit a category — they fit a specific lender's specific program. These are the niche solutions that experienced brokers know exist but most websites don't list.",
+  "body": [
+    {
+      "heading": "Family gift programs",
+      "paragraphs": [
+        "Most A-lenders accept gifted down payments from immediate family with a signed gift letter and verification of source. A handful go further with structured gift programs that allow the gifter to remain on title or as a guarantor without the standard liability."
+      ]
+    },
+    {
+      "heading": "Co-signor and guarantor programs",
+      "paragraphs": [
+        "Co-signor: full liability, on title and on mortgage. Guarantor: secondary liability, often not on title. A few lenders offer guarantor-only programs for parents helping children — limiting the parent's liability while still strengthening the application."
+      ]
+    },
+    {
+      "heading": "Lender-specific niches",
+      "paragraphs": [
+        "Examples: programs for active military and RCMP members; aboriginal home-ownership programs (RBC, BMO, several credit unions); low-deposit programs for specific corporate employer relationships; NHA Multi-Family programs with preferential terms for affordable rental developments. The list is longer than this page can hold — if you have an unusual situation, ask. There's often a program."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Have a unique situation that doesn't fit standard categories",
+    "Have access to family financial help and want it structured efficiently",
+    "Are part of a profession or community with specific lender programs"
+  ],
+  "faqs": [
+    {
+      "question": "How do I find out which programs apply to me?",
+      "answer": "A 20-minute call. Tell me your situation in plain English; I'll match it to the lenders whose programs fit."
+    }
+  ],
+  "related": ["second-property", "medical-professionals", "self-employed"],
+  "keywords": ["special mortgage programs Canada", "family gift mortgage Vancouver", "co-signor mortgage BC"]
+}

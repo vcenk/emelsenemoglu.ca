@@ -1,0 +1,15 @@
+{
+  "slug": "newcomers",
+  "label": "Newcomers & Non-Residents",
+  "title": "Newcomer & Non-Resident Mortgages in Canada",
+  "metaTitle": "New to Canada Mortgage — Vancouver Broker for Newcomers",
+  "metaDescription": "Newcomer and non-resident mortgages across Canada. Programs for permanent residents, work permit holders, and international buyers of Canadian real estate.",
+  "intro": "If you've been in Canada less than five years, or you're buying from outside Canada, you have more mortgage options than the major banks usually mention.",
+  "body": "<p>Newcomer and non-resident files are a specialty desk at most lenders — separate from the general residential underwriters — and the rules are different. Some accept foreign credit reports. Some accept work-permit income (with conditions). Some allow down payment from foreign sources without the standard 90-day seasoning rules. Knowing which lender does which matters enormously.</p><p>I work with these files regularly and serve clients moving to Greater Vancouver from Turkey, the UK, the US, India, China, the UAE, and across Europe. The pages below are the four most common situations I see.</p>",
+  "highlights": [
+    { "title": "Foreign credit recognized", "description": "Specific newcomer programs accept Equifax international and bureau-equivalent reports from your home country." },
+    { "title": "Work-permit programs", "description": "Permanent residents and many work-permit holders can qualify with as little as 5% down on insured mortgages." },
+    { "title": "Foreign down payment", "description": "Down payment can come from outside Canada — with proper anti-money-laundering documentation." }
+  ],
+  "services": ["new-to-canada", "newcomers-to-canada", "international-home-purchases", "non-resident-mortgage"]
+}

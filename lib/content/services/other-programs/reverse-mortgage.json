@@ -1,0 +1,42 @@
+{
+  "slug": "reverse-mortgage",
+  "category": "other-programs",
+  "categoryLabel": "Other Programs",
+  "title": "Reverse Mortgages in Canada — Equitable Bank Flex & Beyond",
+  "shortTitle": "Reverse Mortgage",
+  "metaTitle": "Reverse Mortgage Canada — Equitable Bank Flex & CHIP Compared",
+  "metaDescription": "Reverse mortgage options in Canada beyond CHIP. Equitable Bank Flex Reverse Mortgage and product comparisons for Canadians age 55+.",
+  "intro": "CHIP isn't the only reverse mortgage in Canada anymore. Equitable Bank's Flex Reverse Mortgage offers a competing product — sometimes at lower rates and with different qualifying flexibility.",
+  "body": [
+    {
+      "heading": "CHIP vs. Equitable Bank Flex",
+      "paragraphs": [
+        "CHIP (HomeEquity Bank) is the original reverse mortgage in Canada, available since 1986. Wider geographic coverage (most provinces and territories), simpler underwriting, slightly higher rates. Equitable Bank Flex is newer (launched 2021), available in major urban markets, often at slightly lower rates and with different cash-advance options.",
+        "Both products: no monthly payments required, advance up to 55% of value depending on age and property, no income or credit qualifying, repaid on sale or estate settlement, no-negative-equity guarantee. Both: registered as a mortgage; you retain ownership."
+      ]
+    },
+    {
+      "heading": "Choosing between them",
+      "paragraphs": [
+        "Geography is the first filter — Equitable Flex isn't available in all areas. Beyond that, current rates and the specific advance structure (lump sum vs. drawable) matter. I run quotes from both and compare side by side. Even a 0.25% rate difference is meaningful when interest accrues over 10–20 years."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are 55+ and want to compare reverse mortgage options",
+    "Live in a major Canadian urban area where multiple products are available",
+    "Want the lowest-cost reverse mortgage for your situation"
+  ],
+  "faqs": [
+    {
+      "question": "Can I switch from CHIP to Equitable later?",
+      "answer": "Yes — but it's a refinance, with discharge and registration costs. Choose the right product up front."
+    },
+    {
+      "question": "Are reverse mortgages safe?",
+      "answer": "Both CHIP and Equitable Flex are regulated, federally licensed lenders with no-negative-equity guarantees. Provided you understand the cost of accruing interest, the products themselves are safe and well-established."
+    }
+  ],
+  "related": ["chip-reverse-mortgage", "refinancing-your-home", "home-equity-line-of-credit"],
+  "keywords": ["reverse mortgage Canada", "Equitable Bank Flex reverse mortgage", "reverse mortgage Vancouver 55+"]
+}

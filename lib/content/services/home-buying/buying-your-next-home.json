@@ -1,0 +1,63 @@
+{
+  "slug": "buying-your-next-home",
+  "category": "home-buying",
+  "categoryLabel": "Home Buying",
+  "title": "Buying Your Next Home — Move Up, Downsize, Relocate",
+  "shortTitle": "Buying Your Next Home",
+  "metaTitle": "Buying Your Next Home in BC — Vancouver Mortgage Broker",
+  "metaDescription": "Mortgage strategy for move-up buyers, downsizers and relocators in Greater Vancouver. Bridge financing, sale-and-purchase coordination, and porting your existing mortgage.",
+  "intro": "Selling and buying at the same time has more moving parts than a first purchase. The mortgage strategy needs to cover three things at once: what to do with your current mortgage, how to fund the new down payment, and how to bridge the gap if closings don't line up.",
+  "body": [
+    {
+      "heading": "Three options for your existing mortgage",
+      "paragraphs": [
+        "Most clients moving up or sideways have an existing mortgage with a low fixed rate. Breaking it triggers a prepayment penalty — sometimes a few thousand dollars, sometimes much more on big-bank IRD calculations. There are three ways to handle this.",
+        "First, port your mortgage to the new property. Most lenders allow this with no penalty if the closings happen within 30–120 days of each other. The rate, term and balance carry forward; if you need more borrowing power, the lender 'blends and extends' a top-up at current rates. Second, break and pay the penalty if a refinance with a meaningfully better rate or structure justifies it. Third, keep the existing mortgage on the old property and discharge it when the property sells — useful if there's a gap between sale and purchase."
+      ]
+    },
+    {
+      "heading": "Bridge financing when closings don't align",
+      "paragraphs": [
+        "If you're closing on the new home before the old one sells, you'll likely need bridge financing to cover the down-payment gap. Bridge loans are short-term (typically 30–120 days) and priced at prime + 2–4%. They're easy to set up if your old home is firm-sold; harder if it's still listed. I cover bridges in detail on the bridge financing page."
+      ]
+    },
+    {
+      "heading": "What changes for second-time buyers",
+      "paragraphs": [
+        "You don't get the first-time buyer programs (no PTT exemption, no FHSA contribution room if you've used it, no first-time RRSP HBP). But you do have equity from the existing home, which usually makes qualification easier. The big variables are: how much net equity you'll have after sale, what the carrying cost looks like during any overlap, and whether the new lender will let you 'blend and extend' to keep some of your low rate."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Currently own a Greater Vancouver home and are buying another",
+    "Are downsizing after the kids move out",
+    "Are relocating from another city to Greater Vancouver",
+    "Have an existing mortgage with a sub-market rate worth keeping"
+  ],
+  "requirements": [
+    "Current mortgage statement",
+    "Recent property assessment or estimated sale price for current home",
+    "Standard income and ID documents",
+    "Listing agreement if old home is already on market"
+  ],
+  "faqs": [
+    {
+      "question": "Can I port my mortgage to a new home?",
+      "answer": "Most lenders allow porting if the closings are within 30–120 days. Some allow longer windows. The rate carries forward; any new money is blended at current rates. I check porting eligibility before we look at any new mortgage."
+    },
+    {
+      "question": "How much penalty would I pay to break early?",
+      "answer": "On a fixed-rate mortgage, the greater of 3 months' interest or the IRD. Big banks use posted-rate IRD which can run $15,000–$40,000 on a typical Greater Vancouver mortgage. Monolines use discounted-rate IRD, usually 60–80% lower. Get the exact quote from your lender — verbal estimates are unreliable."
+    },
+    {
+      "question": "Do I need to sell first?",
+      "answer": "Not necessarily. If your debt-service ratios support carrying both properties briefly, you can buy first with bridge financing. If the numbers are tight, listing first (with a long completion or rent-back) is safer."
+    },
+    {
+      "question": "What if I'm relocating from out of province?",
+      "answer": "Same federal rules apply. The wrinkle is BC's Property Transfer Tax — even repeat buyers pay it on the new BC purchase. I work with relocating clients from Toronto, Calgary and Montreal regularly."
+    }
+  ],
+  "related": ["bridge-financing", "refinancing-your-home", "transfers-and-switches"],
+  "keywords": ["move up mortgage Vancouver", "porting a mortgage BC", "downsizing mortgage Vancouver", "relocating to Vancouver mortgage"]
+}

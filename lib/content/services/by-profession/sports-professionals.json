@@ -1,0 +1,42 @@
+{
+  "slug": "sports-professionals",
+  "category": "by-profession",
+  "categoryLabel": "Mortgage By Profession",
+  "title": "Mortgages for Sports Professionals",
+  "shortTitle": "Sports Professionals",
+  "metaTitle": "Athlete Mortgages — Income Recognition for Pros",
+  "metaDescription": "Mortgage programs for professional athletes with multi-year contracts, signing bonuses, and cross-border income. Specialty lender desks for sports professionals.",
+  "intro": "Professional athletes face a unique set of mortgage challenges — multi-year contracts with variable annual values, signing bonuses, cross-border tax treatment, and income that may concentrate in a 5–10 year window.",
+  "body": [
+    {
+      "heading": "What complicates a pro athlete's mortgage file",
+      "paragraphs": [
+        "Standard income recognition struggles with three things: contracts that span multiple jurisdictions and tax years, signing bonuses paid as lump sums (which lenders sometimes refuse to count), and earnings concentrated in a short career window where future income isn't guaranteed.",
+        "Specialty desks at a handful of Canadian lenders evaluate athlete income holistically — averaging contract value over the term, recognizing signing bonuses on a pro-rated basis, and considering net worth and savings discipline. The brokerage relationship matters here: I have direct access to underwriters who handle these files routinely."
+      ]
+    },
+    {
+      "heading": "Common scenarios",
+      "paragraphs": [
+        "First contract / rookie: usually requires a parent guarantor or co-signor and equity-based qualification. Mid-career with 3+ years of stable T1 returns: standard or BFS programs work well. End-of-career planning: structure to lock in low fixed payments before retirement and use accumulated savings as down payment on a long-term home."
+      ]
+    }
+  ],
+  "whoItsFor": [
+    "Are a professional athlete with a multi-year contract",
+    "Have signing bonus or salary structures that don't fit standard underwriting",
+    "Are planning the transition from active career to retirement"
+  ],
+  "faqs": [
+    {
+      "question": "Can a US-based contract qualify me for a Canadian mortgage?",
+      "answer": "Yes — with cross-border tax filings and contract documentation, several Canadian lenders will evaluate USD-denominated contracts. The currency conversion and stability of the contract drive the qualifying income."
+    },
+    {
+      "question": "How are signing bonuses treated?",
+      "answer": "Lender-dependent. Some count them at 50% pro-rated over the contract term. Others ignore them. The right lender matters more than the headline rate for athlete files."
+    }
+  ],
+  "related": ["self-employed", "complex-mortgage-solutions", "investment-properties"],
+  "keywords": ["athlete mortgage Canada", "professional athlete mortgage BC", "sports income mortgage"]
+}

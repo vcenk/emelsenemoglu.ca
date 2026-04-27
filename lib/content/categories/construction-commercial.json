@@ -1,0 +1,15 @@
+{
+  "slug": "construction-commercial",
+  "label": "Construction & Commercial",
+  "title": "Construction & Commercial Mortgages in BC",
+  "metaTitle": "Construction & Commercial Mortgages — Greater Vancouver",
+  "metaDescription": "Construction draws, new build mortgages, and commercial real estate financing across Greater Vancouver and BC. Multi-family, mixed-use, retail and self-builds.",
+  "intro": "Building a custom home in West Vancouver, financing a Burnaby pre-sale, or buying a commercial mixed-use building — different products, different lenders, same need for a clear plan.",
+  "body": "<p>Construction and commercial files don't fit residential underwriting. Construction mortgages advance in draws tied to inspection milestones, with completion mortgages stitched onto the back end. Commercial files use Debt Service Coverage Ratio (DSCR), not GDS/TDS, and LTV maxes out around 65–75% depending on property type.</p><p>I work with construction and commercial lenders directly — both for self-builds and developer pre-sales, and for multi-family and mixed-use commercial in Greater Vancouver.</p>",
+  "highlights": [
+    { "title": "Draw-schedule construction", "description": "Funds advance in 4–5 stages tied to inspections — from foundation through occupancy." },
+    { "title": "Pre-sale assignment financing", "description": "Specialized financing for assignments and unit closings on Burnaby, Surrey and Vancouver pre-sales." },
+    { "title": "DSCR-based commercial", "description": "Commercial deals price on the property's cash flow, not your personal income — though guarantor strength still matters." }
+  ],
+  "services": ["new-build-mortgages", "construction-mortgage", "commercial-mortgage"]
+}

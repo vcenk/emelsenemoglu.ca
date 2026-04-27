@@ -1,0 +1,36 @@
+{
+  "slug": "land-transfer-tax",
+  "title": "BC Property Transfer Tax Calculator",
+  "metaTitle": "BC Property Transfer Tax Calculator (Vancouver, 2026)",
+  "metaDescription": "Estimate your BC Property Transfer Tax for a Greater Vancouver purchase. Includes the first-time home buyer exemption and 20% foreign buyer additional tax.",
+  "intro": "Estimate the Property Transfer Tax (PTT) you'll owe on closing for a residential purchase in British Columbia, including the first-time home buyer exemption and the 20% Additional Property Transfer Tax for foreign buyers in Greater Vancouver.",
+  "description": [
+    "British Columbia charges Property Transfer Tax on the fair market value of property you buy. The general residential rate is 1% on the first $200,000, 2% on the portion from $200,000 to $2,000,000, 3% on the portion from $2M to $3M, and an additional 2% (5% total) on residential value above $3M.",
+    "First-time home buyers in BC may be eligible for a full exemption on properties up to $500,000 of fair market value, with a partial exemption phasing out up to $835,000 (as of 2026 — limits are adjusted periodically by the province). To qualify you must be a Canadian citizen or permanent resident, have lived in BC for the past 12 months or filed BC income tax for the past 6 years, never have owned a principal residence anywhere in the world, and occupy the home as your principal residence within 92 days.",
+    "Foreign buyers — anyone who is not a Canadian citizen or permanent resident — pay an Additional Property Transfer Tax of 20% of the fair market value when buying residential property in Metro Vancouver and several other regulated areas. This is on top of the regular PTT. The federal foreign buyer ban is a separate issue and is currently in effect for most residential purchases until 2027.",
+    "This calculator does not include GST (which applies to new builds), the new build exemption (full exemption up to $1.1M for newly built homes purchased as a principal residence), or the BC Home Flipping Tax. For a complete closing-cost picture book a call — we'll itemize PTT, legal fees, title insurance, adjustments and any GST on a single page."
+  ],
+  "faqs": [
+    {
+      "question": "Do I pay PTT on a new build?",
+      "answer": "Generally yes — but the new build exemption can fully exempt purchases of newly constructed principal residences up to $1,100,000, with partial exemption up to $1,150,000 (as of 2026). Your lawyer or notary confirms eligibility on closing."
+    },
+    {
+      "question": "I'm on a work permit — am I a foreign buyer?",
+      "answer": "Yes. Anyone who is not a Canadian citizen or permanent resident pays the 20% Additional PTT on Metro Vancouver residential purchases. Some provincial nominee program participants may be eligible for a refund — confirm with your lawyer."
+    },
+    {
+      "question": "Does PTT apply to a transfer between spouses?",
+      "answer": "Most spousal transfers are exempt from PTT under the BC Property Transfer Tax Act. Your real-estate lawyer confirms the exemption when filing."
+    },
+    {
+      "question": "Is PTT financeable?",
+      "answer": "No — PTT must be paid out of your closing funds. Plan for it as part of your down-payment-and-closing-costs budget, not your mortgage."
+    },
+    {
+      "question": "What about other Greater Vancouver taxes?",
+      "answer": "The Speculation and Vacancy Tax, Empty Homes Tax (City of Vancouver), and Underused Housing Tax (federal) are annual taxes — not closing-cost taxes. They affect ongoing carrying costs for non-occupant or vacant properties."
+    }
+  ],
+  "related": ["mortgage-payment", "affordability"]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "renewals-transfers",
+  "label": "Renewals & Transfers",
+  "title": "Mortgage Renewals & Transfers in BC",
+  "metaTitle": "Mortgage Renewals & Transfers — Greater Vancouver Broker",
+  "metaDescription": "Don't auto-sign your renewal letter. Re-shop your mortgage at renewal — typically saves Greater Vancouver homeowners thousands over a 5-year term. No-cost transfer options.",
+  "intro": "Your renewal letter is not a quote — it's an opening offer. Re-shopping your mortgage takes about 30 minutes and routinely saves my clients $5,000–$25,000 over a 5-year term.",
+  "body": "<p>The Bank of Canada estimates that about 60% of Canadian mortgage holders simply sign whatever rate their existing lender mails them at renewal. That convenience costs the average Greater Vancouver homeowner thousands of dollars per term — because lenders price renewal letters above the rate they'll offer you when you push back, and well above what they'll offer a brand-new client.</p><p>The renewal window is also the cheapest moment to switch lenders. On a straight switch (same balance, no extension, no equity take-out), the new lender almost always covers your discharge fee, legal fees, and appraisal. Out-of-pocket cost: usually zero.</p><p>If your renewal date is within 120 days, this is the most leverage you'll have for the next five years. Use it.</p>",
+  "highlights": [
+    { "title": "$0 to switch lenders", "description": "On a straight transfer, the new lender covers discharge and legal fees in most cases." },
+    { "title": "Re-shop early", "description": "Most lenders hold a renewal rate for 90 days. Lock in early; you can usually still take a lower rate if it appears." },
+    { "title": "Renegotiate, don't just renew", "description": "Even staying with your current lender, a broker push-back typically drops your rate by 15–30 bps." }
+  ],
+  "services": [
+    "mortgage-renewals",
+    "early-renewals",
+    "transfers-and-switches",
+    "renewal-benefits",
+    "renewing-your-mortgage"
+  ],
+  "faqs": [
+    {
+      "question": "When should I start shopping my renewal?",
+      "answer": "120 days before maturity is ideal. Most lenders will hold a new rate for 90 days, so locking early protects you against rate increases without locking you out of better rates if they appear."
+    },
+    {
+      "question": "Is a transfer the same as a refinance?",
+      "answer": "No. A transfer (or 'switch') keeps your balance, amortization and structure the same — you just move it to a new lender at a new rate. A refinance changes one or more of those things and triggers different rules and costs."
+    },
+    {
+      "question": "What if I'm with a private or B-lender?",
+      "answer": "Renewals from private and B-lenders are where the biggest savings often live. Many clients can graduate back to A-lender pricing at renewal once their credit, income or property situation has stabilized."
+    }
+  ]
+}

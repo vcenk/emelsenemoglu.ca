@@ -1,0 +1,37 @@
+{
+  "slug": "refinance-savings",
+  "title": "Mortgage Refinance Break-Even Calculator",
+  "metaTitle": "Mortgage Refinance Calculator (Canada) — Break-Even Analysis",
+  "metaDescription": "Should you refinance? Calculate your monthly savings, prepayment penalty, legal and appraisal costs, and the month you break even.",
+  "intro": "Refinancing only makes sense when the savings clearly beat the costs and you'll stay in the mortgage long enough to recover them. This calculator does that math.",
+  "description": [
+    "Refinancing means breaking your existing mortgage early and replacing it with a new one — usually at a lower rate, with cash taken out of your equity, or both. The catch is the prepayment penalty: on a fixed-rate mortgage, it's the greater of 3 months' interest or the Interest Rate Differential (IRD), which can run from a few thousand to over $30,000 depending on your lender, balance and how much rates have changed.",
+    "On top of the penalty, you'll typically pay legal fees ($800–$1,800), an appraisal ($300–$500) and possibly a discharge fee ($250–$400). The new lender usually covers some or all of these on a refinance, but not always.",
+    "This calculator subtracts those costs from your projected savings and shows the break-even month. If you'll stay in the mortgage past break-even, the refinance pays off. If you're planning to sell within a year, it usually doesn't.",
+    "Refinances also let you re-amortize back up to 30 years (on conventional mortgages) or extract equity for renovations, debt consolidation, or down payments on investment properties. Each scenario has a different math — book a call and I'll run yours specifically.",
+    "One important caveat: lenders use different IRD formulas. The 'big six' generally use posted-rate IRD which produces much higher penalties than the discounted-rate IRD used by monolines. Get the exact penalty quote from your lender before relying on any calculator."
+  ],
+  "faqs": [
+    {
+      "question": "How do I find out my actual prepayment penalty?",
+      "answer": "Call your lender and ask for a 'payout statement' or written penalty quote. Verbal quotes are unreliable. Penalties change daily based on bond yields and your mortgage's specific terms."
+    },
+    {
+      "question": "What's a typical break-even period?",
+      "answer": "On a meaningful rate drop (say 0.75%–1.00% lower), break-even is often 18–30 months. Anything under 24 months is usually a strong refinance candidate; over 36 months is borderline and depends on your other goals (e.g., debt consolidation)."
+    },
+    {
+      "question": "Can I refinance to consolidate credit card debt?",
+      "answer": "Yes — and on Greater Vancouver homes with significant equity this is one of the most common refinance reasons. Replacing 22% credit-card interest with sub-5% mortgage interest can save hundreds of dollars per month, even after the penalty."
+    },
+    {
+      "question": "Do I need a new appraisal?",
+      "answer": "Usually yes — the new lender wants to confirm the home's current value. On some 'fast-track' refinance products with monoline lenders, an automated valuation model (AVM) is used and no in-person appraisal is required."
+    },
+    {
+      "question": "Will refinancing affect my credit score?",
+      "answer": "Yes — slightly. The hard credit pull and a new account showing up will dip your score by a few points, recovering within 3–6 months as you make on-time payments."
+    }
+  ],
+  "related": ["mortgage-payment", "renewal-savings", "affordability"]
+}
