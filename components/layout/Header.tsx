@@ -13,6 +13,28 @@ export function Header() {
 
   return (
     <header className="sticky top-0 z-40 bg-cream-100/85 backdrop-blur-md border-b border-cream-300/70">
+      {/* Compliance / contact utility bar */}
+      <div className="bg-emerald-900 text-cream-100">
+        <div className="container-page flex flex-wrap items-center justify-between gap-x-4 gap-y-1 py-1.5 text-[11px] sm:text-xs">
+          <span className="flex items-center gap-2 font-medium">
+            <span aria-hidden className="h-1.5 w-1.5 rounded-full bg-coral-400" />
+            Licensed BC Mortgage Broker · {site.license.authority} #{site.license.number}
+          </span>
+          <span className="flex items-center gap-3 text-cream-100/85">
+            <a href={site.phoneHref} className="hover:text-coral-300 transition-colors">
+              {site.phone}
+            </a>
+            <span aria-hidden className="text-cream-100/40">·</span>
+            <a
+              href={`mailto:${site.email}`}
+              className="hidden sm:inline hover:text-coral-300 transition-colors"
+            >
+              {site.email}
+            </a>
+          </span>
+        </div>
+      </div>
+
       <div className="container-page flex items-center justify-between py-4">
         <Logo />
 

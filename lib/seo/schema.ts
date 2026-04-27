@@ -20,6 +20,17 @@ export function brokerPersonSchema() {
       containedInPlace: { "@type": "AdministrativeArea", name: "British Columbia, Canada" },
     })),
     knowsLanguage: ["English", "Turkish"],
+    hasCredential: {
+      "@type": "EducationalOccupationalCredential",
+      credentialCategory: "license",
+      name: `${site.license.authority} Mortgage Broker Registration`,
+      identifier: site.license.number,
+      validFrom: site.license.effectiveDate,
+      recognizedBy: {
+        "@type": "Organization",
+        name: site.license.authorityFull,
+      },
+    },
   };
 }
 
@@ -42,6 +53,23 @@ export function localBusinessSchema() {
       addressLocality: "Vancouver",
     },
     areaServed: site.serviceArea,
+    identifier: {
+      "@type": "PropertyValue",
+      propertyID: `${site.license.authority} ${site.license.type}`,
+      value: site.license.number,
+    },
+    hasCredential: {
+      "@type": "EducationalOccupationalCredential",
+      credentialCategory: "license",
+      name: `${site.license.authority} Mortgage Broker Registration`,
+      identifier: site.license.number,
+      validFrom: site.license.effectiveDate,
+      recognizedBy: {
+        "@type": "Organization",
+        name: site.license.authorityFull,
+        url: site.license.portalUrl,
+      },
+    },
     openingHoursSpecification: [
       {
         "@type": "OpeningHoursSpecification",

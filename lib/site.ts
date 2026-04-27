@@ -38,8 +38,17 @@ export const site = {
     instagram: "https://www.instagram.com/",
     facebook: "https://www.facebook.com/",
   },
+  license: {
+    number: "MB608816",
+    authority: "BCFSA",
+    authorityFull: "British Columbia Financial Services Authority",
+    act: "Mortgage Brokers Act",
+    type: "Registration",
+    effectiveDate: "2025-06-05",
+    portalUrl: "https://portal.bcfsa.ca/",
+  },
   licenseDisclaimer:
-    "Emel Senemoglu is a licensed mortgage broker in British Columbia operating under Powerhaus Mortgages, a division of Dominion Lending Centres National Ltd. License details available on request.",
+    "Emel Senemoglu is a licensed mortgage broker in British Columbia, registered with the BC Financial Services Authority (BCFSA #MB608816) under the Mortgage Brokers Act, operating through Powerhaus Mortgages — Dominion Lending Centres National Ltd.",
 };
 
 export type SiteConfig = typeof site;
