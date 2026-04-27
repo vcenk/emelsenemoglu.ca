@@ -20,11 +20,16 @@ export function Footer() {
                   {site.phone}
                 </a>
               </p>
-              <p>
-                <a href={`mailto:${site.email}`} className="text-cream-50 hover:text-coral-300 break-all">
-                  {site.email}
-                </a>
-              </p>
+              {site.emails.map((address) => (
+                <p key={address}>
+                  <a
+                    href={`mailto:${address}`}
+                    className="text-cream-50 hover:text-coral-300 break-all"
+                  >
+                    {address}
+                  </a>
+                </p>
+              ))}
               <p className="text-cream-100/60">{site.address.region}, {site.address.country}</p>
             </div>
           </div>

@@ -9,6 +9,8 @@ export const site = {
     "Greater Vancouver mortgage broker Emel Senemoglu helps homebuyers, renewers, investors and newcomers across BC and Canada secure the right mortgage with personalized guidance.",
   tagline: "Mortgages built around your life, not the bank's.",
   email: "emel@emelsenemoglu.ca",
+  secondaryEmail: "emel@powerhausmortgages.ca",
+  emails: ["emel@emelsenemoglu.ca", "emel@powerhausmortgages.ca"],
   phone: "778-885-6609",
   phoneHref: "tel:+17788856609",
   whatsappHref: "https://wa.me/17788856609",

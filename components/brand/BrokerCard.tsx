@@ -40,14 +40,22 @@ export function BrokerCard({ variant = "stacked", className, showCTA = true }: P
         <p className="mt-2 text-sm text-ink-500">
           {site.brokerage}
         </p>
-        <div className={cn("mt-4 flex flex-wrap gap-2 text-sm", variant === "stacked" && "justify-center")}>
-          <a href={site.phoneHref} className="font-medium text-emerald-900 hover:text-coral-600">
+        <div className={cn("mt-4 text-sm space-y-1", variant === "stacked" && "text-center")}>
+          <a
+            href={site.phoneHref}
+            className="block font-medium text-emerald-900 hover:text-coral-600"
+          >
             {site.phone}
           </a>
-          <span className="text-ink-300">·</span>
-          <a href={`mailto:${site.email}`} className="font-medium text-emerald-900 hover:text-coral-600 break-all">
-            {site.email}
-          </a>
+          {site.emails.map((address) => (
+            <a
+              key={address}
+              href={`mailto:${address}`}
+              className="block font-medium text-emerald-900 hover:text-coral-600 break-all"
+            >
+              {address}
+            </a>
+          ))}
         </div>
         {showCTA && (
           <div className={cn("mt-5 flex flex-wrap gap-3", variant === "stacked" && "justify-center")}>

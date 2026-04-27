@@ -53,6 +53,14 @@ export function localBusinessSchema() {
       addressLocality: "Vancouver",
     },
     areaServed: site.serviceArea,
+    contactPoint: site.emails.map((address) => ({
+      "@type": "ContactPoint",
+      contactType: "customer service",
+      telephone: site.phone,
+      email: address,
+      areaServed: "CA",
+      availableLanguage: ["English", "Turkish"],
+    })),
     identifier: {
       "@type": "PropertyValue",
       propertyID: `${site.license.authority} ${site.license.type}`,

@@ -39,9 +39,19 @@ export default function ContactPage() {
               </div>
               <div>
                 <p className="text-xs uppercase tracking-[0.18em] text-coral-600 font-medium">Email</p>
-                <p className="mt-1 font-display text-lg text-emerald-900 break-all">
-                  <a href={`mailto:${site.email}`}>{site.email}</a>
-                </p>
+                <ul className="mt-1 space-y-1.5">
+                  {site.emails.map((address) => (
+                    <li key={address}>
+                      <a
+                        href={`mailto:${address}`}
+                        className="font-display text-lg text-emerald-900 hover:text-coral-600 break-all"
+                      >
+                        {address}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+                <p className="mt-2 text-xs text-ink-500">Either inbox reaches me directly.</p>
               </div>
               <div>
                 <p className="text-xs uppercase tracking-[0.18em] text-coral-600 font-medium">Service area</p>
