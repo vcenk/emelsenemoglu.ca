@@ -85,9 +85,11 @@ export default function HomePage() {
               Mortgages built around <em className="not-italic text-coral-600">your life</em>, not the bank's.
             </h1>
             <p className="mt-5 text-lg text-ink-700 max-w-xl leading-relaxed">
-              I'm Emel — a Greater Vancouver mortgage broker with access to 40+ Canadian lenders. Whether
-              you're buying your first home, renewing, refinancing, investing or new to Canada, I'll
-              shop the market for you and translate it into plain English.
+              I'm Emel — a Greater Vancouver mortgage broker with{" "}
+              <strong className="text-emerald-900 font-semibold">35 years in Canadian finance</strong> and
+              access to 40+ lenders. Whether you're buying your first home, renewing, refinancing,
+              investing or new to Canada, I'll shop the market for you and translate it into plain
+              English.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <Button href="/apply" size="lg">Start Your Application</Button>
@@ -95,10 +97,10 @@ export default function HomePage() {
             </div>
             <ul className="mt-10 grid grid-cols-2 sm:grid-cols-4 gap-3 max-w-2xl">
               {[
+                { k: "35", v: "Years in finance", caption: "Banking, lending, investments & advisory" },
                 { k: "40+", v: "Lender partners", caption: "Big banks, monolines & credit unions" },
                 { k: "$0", v: "Fee for most files", caption: "Lender pays the brokerage" },
                 { k: "24h", v: "Pre-approval", caption: "From clean documents in hand" },
-                { k: "BC", v: "Licensed broker", caption: "Greater Vancouver-based" },
               ].map((s) => (
                 <li
                   key={s.v}
@@ -172,18 +174,19 @@ export default function HomePage() {
           <div className="lg:col-span-7 order-1 lg:order-2">
             <p className="text-xs uppercase tracking-[0.2em] text-coral-600 font-medium">About Emel</p>
             <h2 className="mt-3 font-display text-3xl md:text-4xl text-emerald-950">
-              A Vancouver mortgage broker who treats your file like it's her own.
+              35 years in Canadian finance — now working entirely for you.
             </h2>
             <p className="mt-5 text-ink-700 leading-relaxed">
-              With years of experience guiding families across Greater Vancouver through purchases,
-              renewals, refinances and investment files, I bring honest advice, careful underwriting,
-              and a calm hand to one of the biggest financial decisions you'll ever make.
+              I spent most of my career inside Canadian banking, recognized as a top performer across
+              mortgages, lending, investments and overall financial planning. Brokerage was the natural
+              next step: instead of representing one institution, I now represent the client — shopping
+              40+ Canadian lenders on every file I take on.
             </p>
             <p className="mt-3 text-ink-700 leading-relaxed">
-              My clients are first-time buyers in Burnaby, self-employed founders in East Vancouver,
-              physicians in Surrey, families relocating from Toronto, and newcomers settling in Richmond.
-              The thread that ties them together: they want their mortgage to fit their life — not the
-              other way around.
+              My approach is client-first, plain-language, and built for the long term. Every file
+              starts with a conversation about your specific goals — short and long term — before any
+              rate is quoted. Trust, transparency and consistent support are the only way I know how to
+              do this work.
             </p>
             <div className="mt-7 flex flex-wrap gap-3">
               <Button href="/about">More about Emel</Button>

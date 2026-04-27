@@ -11,15 +11,34 @@ import { site } from "@/lib/site";
 export const metadata = buildMetadata({
   title: "About Emel Senemoglu — Vancouver Mortgage Broker",
   description:
-    "Meet Emel Senemoglu, Director of Client Journey at Powerhaus Mortgages — Dominion Lending Centres National. A Greater Vancouver mortgage broker who turns complicated mortgages into clear decisions.",
+    "Meet Emel Senemoglu — Director of Client Journey at Powerhaus Mortgages, Dominion Lending Centres National. 35 years in Canadian finance, BCFSA #MB608816, serving Greater Vancouver and across BC.",
   path: "/about",
 });
 
 const values = [
-  { t: "Honest, in plain English", d: "I translate underwriting jargon into language you can act on. If a deal isn't right for you, I'll say so — even if that means I don't get paid." },
-  { t: "40+ lender shop", d: "I'm not loyal to a bank. I'm loyal to your file. Big-six, monolines, credit unions, alt-A and private — every option on the table." },
-  { t: "Workflow, not a transaction", d: "From pre-approval through closing and renewal, I stay with you for the full journey. Your file isn't done when funds advance." },
-  { t: "Greater Vancouver, served Canada-wide", d: "Based in BC with deep local market knowledge — also fully digital for clients in Toronto, Calgary, Montreal and beyond." },
+  {
+    t: "Client-first, every time",
+    d: "Every file starts with a conversation about your specific goals — short-term and long-term — before any rate is quoted. If a deal isn't right for you, I'll say so.",
+  },
+  {
+    t: "40+ lender shop",
+    d: "I'm not loyal to a bank. I'm loyal to your file. Big-six, monolines, credit unions, alt-A and private — every option on the table.",
+  },
+  {
+    t: "Lasting relationships",
+    d: "Trust, transparency and consistent support are the only way I know how to do this work. From pre-approval through renewal and beyond, I stay with you.",
+  },
+  {
+    t: "Greater Vancouver, served Canada-wide",
+    d: "Based in BC with deep local market knowledge — also fully digital for clients in Toronto, Calgary, Montreal and beyond.",
+  },
+];
+
+const careerHighlights = [
+  { k: "35", v: "Years in finance", caption: "Banking, lending, investments and advisory" },
+  { k: "40+", v: "Lender partners", caption: "Big banks, monolines, credit unions, alt-A and private" },
+  { k: "EN · TR", v: "Languages", caption: "Service in English and Turkish" },
+  { k: "BC", v: "BCFSA licensed", caption: `Registration #${site.license.number}` },
 ];
 
 export default function AboutPage() {
@@ -28,43 +47,97 @@ export default function AboutPage() {
       <JsonLd data={breadcrumbSchema([{ name: "Home", url: "/" }, { name: "About", url: "/about" }])} />
       <PageHero
         eyebrow="About Emel"
-        title="A Vancouver mortgage broker who treats your file like it's her own."
-        intro="I'm Emel Senemoglu — a licensed BC mortgage broker, multilingual immigrant, and Director of Client Journey at Powerhaus Mortgages, a division of Dominion Lending Centres National Ltd."
+        title="35 years in Canadian finance — now working entirely for you."
+        intro="I'm Emel Senemoglu — a BCFSA-licensed mortgage broker (#MB608816) at Powerhaus Mortgages, a division of Dominion Lending Centres National Ltd."
         breadcrumbs={[{ label: "Home", href: "/" }, { label: "About" }]}
       />
 
       <Section tone="white">
-        <div className="grid gap-12 lg:grid-cols-12 lg:items-center">
+        <div className="grid gap-12 lg:grid-cols-12 lg:items-start">
           <div className="lg:col-span-5">
             <div className="relative aspect-[4/5] max-w-md mx-auto rounded-3xl overflow-hidden bg-cream-200">
-              <Image src="/emelsenemoglu.jpg" alt={`${site.name}, licensed BC mortgage broker at Powerhaus Mortgages — Dominion Lending Centres National`} fill sizes="(max-width: 1024px) 100vw, 480px" className="object-cover" />
+              <Image
+                src="/emelsenemoglu.jpg"
+                alt={`${site.name}, BCFSA-licensed BC mortgage broker at Powerhaus Mortgages — Dominion Lending Centres National`}
+                fill
+                sizes="(max-width: 1024px) 100vw, 480px"
+                className="object-cover"
+              />
             </div>
+            <ul className="mt-8 grid grid-cols-2 gap-3 max-w-md mx-auto">
+              {careerHighlights.map((h) => (
+                <li
+                  key={h.v}
+                  className="rounded-2xl bg-cream-50 border border-cream-200 p-4"
+                >
+                  <p className="font-display text-2xl md:text-3xl font-semibold text-emerald-900 leading-none">
+                    {h.k}
+                  </p>
+                  <p className="text-[10px] uppercase tracking-[0.18em] text-ink-500 mt-3 font-semibold">
+                    {h.v}
+                  </p>
+                  <p className="text-[11px] text-ink-500 mt-1 leading-snug">{h.caption}</p>
+                </li>
+              ))}
+            </ul>
           </div>
+
           <div className="lg:col-span-7 prose-custom">
-            <h2 className="font-display text-2xl md:text-3xl text-emerald-950">Why I do this work</h2>
+            <h2 className="font-display text-2xl md:text-3xl text-emerald-950">A career-long client-first approach</h2>
             <p>
-              Buying a home in Greater Vancouver is hard. Renewing one without rethinking is expensive.
-              Refinancing without a strategy can quietly cost you tens of thousands. I started brokering
-              mortgages because I watched too many smart people sign whatever the bank put in front of them
-              — and I knew there was a better way.
+              With over 35 years of experience in the finance industry, I help clients navigate their
+              mortgage journey with confidence and clarity. I bring a strong client-first mindset,
+              focusing on understanding each client's unique goals and delivering tailored solutions
+              that support both their immediate needs and long-term financial success.
             </p>
+
+            <h2 className="font-display text-2xl md:text-3xl text-emerald-950 mt-8">Top performer in Canadian banking</h2>
             <p>
-              My clients are first-time buyers in Burnaby and Surrey, self-employed founders in East
-              Vancouver, physicians and professionals across the Lower Mainland, families relocating from
-              Toronto and Calgary, and newcomers settling in Richmond, Coquitlam and the North Shore. The
-              thread that ties them together: they want their mortgage to fit their life — not the other
-              way around.
+              Throughout my career in banking, I have been recognized as a top performer — building
+              expertise across mortgages, lending, investments, and overall financial planning. I take
+              pride in creating lasting relationships based on trust, transparency, and consistent
+              support. Brokerage was the natural next step: instead of representing one institution, I
+              now represent the client.
             </p>
+
             <h2 className="font-display text-2xl md:text-3xl text-emerald-950 mt-8">The brokerage</h2>
             <p>
-              I work at <strong>Powerhaus Mortgages</strong>, a division of <strong>Dominion Lending Centres
-              National Ltd.</strong> — one of Canada's largest mortgage networks. That means access to 40+
-              prime lenders plus alt-A, B-lenders, private capital, commercial and reverse mortgage
-              partners. The lender pays the brokerage on funding, so for the vast majority of files
-              there's <strong>no cost to you</strong>.
+              I work at <strong>Powerhaus Mortgages</strong>, a division of <strong>Dominion Lending
+              Centres National Ltd.</strong> — one of Canada's largest mortgage networks. That means
+              access to 40+ prime lenders plus alt-A, B-lenders, private capital, commercial and
+              reverse mortgage partners. The lender pays the brokerage on funding, so for the vast
+              majority of files there's <strong>no cost to you</strong>.
             </p>
+
+            <h2 className="font-display text-2xl md:text-3xl text-emerald-950 mt-8">Licensing</h2>
+            <p>
+              Licensed by the <strong>BC Financial Services Authority</strong> under the Mortgage
+              Brokers Act — registration <strong>#{site.license.number}</strong>, effective{" "}
+              {new Date(site.license.effectiveDate).toLocaleDateString("en-CA", {
+                month: "long",
+                day: "numeric",
+                year: "numeric",
+              })}
+              . You can verify the registration directly on the{" "}
+              <a href={site.license.portalUrl} target="_blank" rel="noopener noreferrer">
+                BCFSA public registry
+              </a>
+              .
+            </p>
+
             <h2 className="font-display text-2xl md:text-3xl text-emerald-950 mt-8">Languages</h2>
-            <p>I serve clients in <strong>English</strong> and <strong>Turkish</strong>. If you'd be more comfortable speaking Turkish, just say so when you reach out.</p>
+            <p>
+              I serve clients in <strong>English</strong> and <strong>Turkish</strong>. If you'd be
+              more comfortable speaking Turkish, just say so when you reach out.
+            </p>
+
+            <h2 className="font-display text-2xl md:text-3xl text-emerald-950 mt-8">Outside the office</h2>
+            <p>
+              When I'm not on a file, you'll find me <strong>spending time in nature</strong>,{" "}
+              <strong>painting</strong>, and at <strong>community events</strong> around Greater
+              Vancouver. The combination keeps me grounded, creative, and connected — qualities I
+              bring back into the work itself.
+            </p>
           </div>
         </div>
       </Section>
@@ -72,7 +145,9 @@ export default function AboutPage() {
       <Section tone="cream">
         <div className="max-w-2xl">
           <p className="text-xs uppercase tracking-[0.2em] text-coral-600 font-medium">How I work</p>
-          <h2 className="mt-3 font-display text-3xl md:text-4xl text-emerald-950">Four things you can count on.</h2>
+          <h2 className="mt-3 font-display text-3xl md:text-4xl text-emerald-950">
+            Four things you can count on.
+          </h2>
         </div>
         <div className="mt-10 grid gap-5 sm:grid-cols-2">
           {values.map((v) => (
@@ -84,7 +159,10 @@ export default function AboutPage() {
         </div>
       </Section>
 
-      <CTABand title="Ready to talk through your mortgage?" subtitle="No fees, no obligation. A 20-minute call usually saves clients thousands." />
+      <CTABand
+        title="Ready to talk through your mortgage?"
+        subtitle="No fees, no obligation. A 20-minute call usually saves clients thousands."
+      />
     </>
   );
 }

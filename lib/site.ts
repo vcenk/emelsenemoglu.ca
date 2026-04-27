@@ -6,8 +6,11 @@ export const site = {
   url: "https://emelsenemoglu.ca",
   domain: "emelsenemoglu.ca",
   description:
-    "Greater Vancouver mortgage broker Emel Senemoglu helps homebuyers, renewers, investors and newcomers across BC and Canada secure the right mortgage with personalized guidance.",
+    "Greater Vancouver mortgage broker Emel Senemoglu brings 35 years of Canadian finance experience to every file. BCFSA-licensed (#MB608816), she helps homebuyers, renewers, investors and newcomers across BC and Canada secure the right mortgage with personalized guidance and 40+ lender access.",
+  shortDescription:
+    "35 years in finance. 40+ lenders. One client at a time.",
   tagline: "Mortgages built around your life, not the bank's.",
+  yearsExperience: 35,
   email: "emel@emelsenemoglu.ca",
   secondaryEmail: "emel@powerhausmortgages.ca",
   emails: ["emel@emelsenemoglu.ca", "emel@powerhausmortgages.ca"],

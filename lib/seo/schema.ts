@@ -6,6 +6,7 @@ export function brokerPersonSchema() {
     "@type": "Person",
     name: site.name,
     jobTitle: site.brokerTitle,
+    description: `Greater Vancouver mortgage broker with ${site.yearsExperience}+ years of experience in the Canadian finance industry — recognized as a top performer in banking before transitioning to brokerage. Expertise across mortgages, lending, investments and overall financial planning.`,
     worksFor: {
       "@type": "FinancialService",
       name: site.brokerage,
@@ -20,6 +21,19 @@ export function brokerPersonSchema() {
       containedInPlace: { "@type": "AdministrativeArea", name: "British Columbia, Canada" },
     })),
     knowsLanguage: ["English", "Turkish"],
+    knowsAbout: [
+      "Mortgage brokerage",
+      "Residential mortgages",
+      "Mortgage refinancing",
+      "Home equity lines of credit",
+      "Investment property financing",
+      "Personal lending",
+      "Investments",
+      "Financial planning",
+      "First-time home buyers",
+      "Mortgage renewals",
+      "Newcomer to Canada mortgage programs",
+    ],
     hasCredential: {
       "@type": "EducationalOccupationalCredential",
       credentialCategory: "license",
