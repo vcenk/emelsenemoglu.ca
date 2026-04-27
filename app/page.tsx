@@ -75,8 +75,8 @@ export default function HomePage() {
       <section className="relative overflow-hidden bg-gradient-to-br from-cream-100 via-cream-100 to-emerald-50/50">
         <div aria-hidden className="absolute -top-32 -right-32 h-96 w-96 rounded-full bg-emerald-200/40 blur-3xl" />
         <div aria-hidden className="absolute -bottom-32 -left-32 h-96 w-96 rounded-full bg-coral-200/30 blur-3xl" />
-        <div className="container-page relative pt-14 md:pt-20 pb-14 md:pb-24 grid gap-12 lg:grid-cols-12 lg:items-center">
-          <div className="lg:col-span-7">
+        <div className="container-page relative pt-10 md:pt-20 pb-14 md:pb-24 grid gap-10 md:gap-12 lg:grid-cols-12 lg:items-center">
+          <div className="order-2 lg:order-1 lg:col-span-7">
             <span className="inline-flex items-center gap-2 rounded-full bg-emerald-900/5 border border-emerald-900/15 px-4 py-1.5 text-xs uppercase tracking-[0.18em] text-emerald-900">
               <span className="h-1.5 w-1.5 rounded-full bg-coral-500" />
               Greater Vancouver · British Columbia
@@ -121,7 +121,7 @@ export default function HomePage() {
               ))}
             </ul>
           </div>
-          <div className="lg:col-span-5">
+          <div className="order-1 lg:order-2 lg:col-span-5">
             <BrokerCard />
           </div>
         </div>
