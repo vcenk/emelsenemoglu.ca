@@ -24,8 +24,8 @@ export function BrokerCard({ variant = "stacked", className, showCTA = true }: P
         )}
       >
         <Image
-          src="/emel-senemoglu.jpg"
-          alt={`${site.name}, ${site.brokerTitle}`}
+          src="/emelsenemoglu.jpg"
+          alt={`${site.name} — Greater Vancouver mortgage broker, ${site.brokerage}`}
           fill
           sizes="(max-width: 768px) 144px, 176px"
           className="object-cover"

@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Fraunces, Inter } from "next/font/google";
+import { Playfair_Display, Inter } from "next/font/google";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { JsonLd } from "@/components/seo/JsonLd";
@@ -8,11 +8,12 @@ import { site } from "@/lib/site";
 import { defaultKeywords } from "@/lib/seo/metadata";
 import "./globals.css";
 
-const fraunces = Fraunces({
+const playfair = Playfair_Display({
   subsets: ["latin"],
   display: "swap",
-  variable: "--font-fraunces",
-  axes: ["SOFT", "opsz"],
+  variable: "--font-display",
+  weight: ["400", "500", "600", "700", "800"],
+  style: ["normal", "italic"],
 });
 
 const inter = Inter({
@@ -65,7 +66,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en-CA" className={`${fraunces.variable} ${inter.variable}`}>
+    <html lang="en-CA" className={`${playfair.variable} ${inter.variable}`}>
       <body className="min-h-screen flex flex-col">
         <JsonLd data={[localBusinessSchema(), brokerPersonSchema(), webSiteSchema()]} />
         <a href="#main" className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:bg-emerald-900 focus:text-cream-50 focus:px-4 focus:py-2 focus:rounded-full">

@@ -93,16 +93,28 @@ export default function HomePage() {
               <Button href="/apply" size="lg">Start Your Application</Button>
               <Button href="/calculators" variant="outline" size="lg">Try a Calculator</Button>
             </div>
-            <ul className="mt-10 grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-2xl">
+            <ul className="mt-10 grid grid-cols-2 sm:grid-cols-4 gap-3 max-w-2xl">
               {[
-                { k: "40+", v: "Lender partners" },
-                { k: "$0", v: "Fee for most files" },
-                { k: "24h", v: "Pre-approval" },
-                { k: "BC", v: "Licensed broker" },
+                { k: "40+", v: "Lender partners", caption: "Big banks, monolines & credit unions" },
+                { k: "$0", v: "Fee for most files", caption: "Lender pays the brokerage" },
+                { k: "24h", v: "Pre-approval", caption: "From clean documents in hand" },
+                { k: "BC", v: "Licensed broker", caption: "Greater Vancouver-based" },
               ].map((s) => (
-                <li key={s.v} className="rounded-2xl bg-white/70 backdrop-blur px-4 py-3 border border-cream-200">
-                  <p className="font-display text-2xl text-emerald-900">{s.k}</p>
-                  <p className="text-xs text-ink-600 mt-0.5">{s.v}</p>
+                <li
+                  key={s.v}
+                  className="group relative rounded-2xl bg-white/85 backdrop-blur p-4 border border-cream-200 hover:border-coral-300 hover:shadow-soft transition-all"
+                >
+                  <span
+                    aria-hidden
+                    className="absolute top-3.5 right-3.5 h-1.5 w-1.5 rounded-full bg-coral-400 group-hover:scale-150 transition-transform"
+                  />
+                  <p className="font-display text-3xl md:text-4xl font-semibold text-emerald-900 leading-none">
+                    {s.k}
+                  </p>
+                  <p className="text-[10px] uppercase tracking-[0.18em] text-ink-500 mt-3 font-semibold font-sans">
+                    {s.v}
+                  </p>
+                  <p className="text-[11px] text-ink-500 mt-1 leading-snug font-sans">{s.caption}</p>
                 </li>
               ))}
             </ul>
@@ -149,8 +161,8 @@ export default function HomePage() {
           <div className="lg:col-span-5 order-2 lg:order-1">
             <div className="relative aspect-[4/5] max-w-md mx-auto rounded-3xl overflow-hidden bg-cream-200">
               <Image
-                src="/emel-senemoglu.jpg"
-                alt={`${site.name} — Greater Vancouver mortgage broker`}
+                src="/emelsenemoglu.jpg"
+                alt={`Mortgage broker ${site.name} serving Greater Vancouver and across BC`}
                 fill
                 sizes="(max-width: 1024px) 100vw, 480px"
                 className="object-cover"

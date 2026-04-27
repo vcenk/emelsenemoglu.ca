@@ -37,7 +37,7 @@ export default function AboutPage() {
         <div className="grid gap-12 lg:grid-cols-12 lg:items-center">
           <div className="lg:col-span-5">
             <div className="relative aspect-[4/5] max-w-md mx-auto rounded-3xl overflow-hidden bg-cream-200">
-              <Image src="/emel-senemoglu.jpg" alt={`${site.name}, Vancouver Mortgage Broker`} fill sizes="(max-width: 1024px) 100vw, 480px" className="object-cover" />
+              <Image src="/emelsenemoglu.jpg" alt={`${site.name}, licensed BC mortgage broker at Powerhaus Mortgages — Dominion Lending Centres National`} fill sizes="(max-width: 1024px) 100vw, 480px" className="object-cover" />
             </div>
           </div>
           <div className="lg:col-span-7 prose-custom">

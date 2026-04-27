@@ -21,7 +21,12 @@ export function buildMetadata({
   const url = `${site.url}${path.startsWith("/") ? path : `/${path}`}`;
   const fullTitle =
     title === site.name ? `${site.name} — Greater Vancouver Mortgage Broker` : `${title} | ${site.name}`;
-  const image = ogImage ?? `${site.url}/og-default.png`;
+
+  // When ogImage is explicitly passed, override; otherwise let Next.js
+  // auto-discover the dynamic /opengraph-image at the app root.
+  const explicitImages = ogImage
+    ? [{ url: ogImage, width: 1200, height: 630, alt: fullTitle }]
+    : undefined;
 
   return {
     title: fullTitle,
@@ -49,13 +54,13 @@ export function buildMetadata({
       title: fullTitle,
       description,
       locale: "en_CA",
-      images: [{ url: image, width: 1200, height: 630, alt: fullTitle }],
+      ...(explicitImages ? { images: explicitImages } : {}),
     },
     twitter: {
       card: "summary_large_image",
       title: fullTitle,
       description,
-      images: [image],
+      ...(ogImage ? { images: [ogImage] } : {}),
     },
     authors: [{ name: site.name, url: site.url }],
     category: "finance",

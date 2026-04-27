@@ -1,8 +1,0 @@
-Place Emel's headshot here as: emel-senemoglu.jpg
-
-Recommended:
-- 1200x1500 (4:5) or larger
-- Square crop also acceptable; layouts handle both
-- JPG or WebP
-
-Used in: BrokerCard, About page hero image, JSON-LD schema.

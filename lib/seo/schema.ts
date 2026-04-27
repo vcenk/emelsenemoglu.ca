@@ -13,7 +13,7 @@ export function brokerPersonSchema() {
     telephone: site.phone,
     email: site.email,
     url: site.url,
-    image: `${site.url}/emel-senemoglu.jpg`,
+    image: `${site.url}/emelsenemoglu.jpg`,
     areaServed: site.serviceArea.map((city) => ({
       "@type": "City",
       name: city,
@@ -33,7 +33,7 @@ export function localBusinessSchema() {
     url: site.url,
     telephone: site.phone,
     email: site.email,
-    image: `${site.url}/emel-senemoglu.jpg`,
+    image: `${site.url}/emelsenemoglu.jpg`,
     priceRange: "$$",
     address: {
       "@type": "PostalAddress",
@@ -97,7 +97,7 @@ export function articleSchema(input: {
     "@type": "Article",
     headline: input.title,
     description: input.description,
-    image: input.image ?? `${site.url}/og-default.png`,
+    image: input.image ?? `${site.url}/opengraph-image`,
     datePublished: input.datePublished,
     dateModified: input.dateModified ?? input.datePublished,
     author: { "@type": "Person", name: site.name, url: site.url },
